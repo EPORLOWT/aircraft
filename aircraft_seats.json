@@ -1,66 +1,34 @@
-[
-  {
-    "icao": "A320",
-    "name": "Airbus A320",
-    "manufacturer": "Airbus",
-    "model": "A320-214",
-    "category": "L2J",
-    "seats": 180
+{
+  "schema": 2,
+  "generated_utc": "2025-12-02T03:45:12Z",
+  "source": {
+    "aircraft": "OpenSky aircraft-types",
+    "seats": "data/seats_reference.csv + scraped"
   },
-  {
-    "icao": "A321",
-    "name": "Airbus A321",
-    "manufacturer": "Airbus",
-    "model": "A321-231",
-    "category": "L2J",
-    "seats": 220
-  },
-  {
-    "icao": "B738",
-    "name": "Boeing 737-800",
-    "manufacturer": "Boeing",
-    "model": "737-8AS",
-    "category": "L2J",
-    "seats": 189
-  },
-  {
-    "icao": "B39M",
-    "name": "Boeing 737 MAX 9",
-    "manufacturer": "Boeing",
-    "model": "737-9 MAX",
-    "category": "L2J",
-    "seats": 204
-  },
-  {
-    "icao": "C172",
-    "name": "Cessna 172",
-    "manufacturer": "Cessna",
-    "model": "172 Skyhawk",
-    "category": "L1P",
-    "seats": 4
-  },
-  {
-    "icao": "SR22",
-    "name": "Cirrus SR22",
-    "manufacturer": "Cirrus",
-    "model": "SR22 G6",
-    "category": "L1P",
-    "seats": 5
-  },
-  {
-    "icao": "E75L",
-    "name": "Embraer 175 (long wing)",
-    "manufacturer": "Embraer",
-    "model": "ERJ-175LR",
-    "category": "L2J",
-    "seats": 76
-  },
-  {
-    "icao": "CRJ9",
-    "name": "Bombardier CRJ900",
-    "manufacturer": "Bombardier",
-    "model": "CL-600-2D24",
-    "category": "L2J",
-    "seats": 76
+  "aircraft": {
+    "A320": {
+      "icao": "A320",
+      "manufacturer": "Airbus",
+      "name": "A320",
+      "full_name": "Airbus A320",
+      "seats": 186,
+      "class": "L2J"
+    },
+    "B753": {
+      "icao": "B753",
+      "manufacturer": "Boeing",
+      "name": "757-300",
+      "full_name": "Boeing 757-300",
+      "seats": 243,
+      "class": "L2J"
+    },
+    "C56X": {
+      "icao": "C56X",
+      "manufacturer": "Cessna",
+      "name": "Citation Excel/XLS",
+      "full_name": "Cessna Citation Excel/XLS",
+      "seats": 9,
+      "class": "L2J"
+    }
   }
-]
+}
