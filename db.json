@@ -1,8 +1,49 @@
 {
+  "version": "v2025.01.01",
+  "generated": 1735680000,
   "aircraft": {
     "A320": { "full_name": "Airbus A320", "seats": 180, "class": "L2J" },
-    "B738": { "full_name": "Boeing 737-800", "seats": 160, "class": "L2J" }
-  },
-  "version": "v2025.01.01",
-  "generated": 1735680000
+    "A20N": { "full_name": "Airbus A320neo", "seats": 186, "class": "L2J" },
+    "A319": { "full_name": "Airbus A319", "seats": 156, "class": "L2J" },
+    "A321": { "full_name": "Airbus A321", "seats": 220, "class": "L2J" },
+    "A21N": { "full_name": "Airbus A321neo", "seats": 226, "class": "L2J" },
+
+    "B737": { "full_name": "Boeing 737", "seats": 130, "class": "L2J" },
+    "B738": { "full_name": "Boeing 737-800", "seats": 160, "class": "L2J" },
+    "B739": { "full_name": "Boeing 737-900", "seats": 178, "class": "L2J" },
+    "B38M": { "full_name": "Boeing 737 MAX 8", "seats": 178, "class": "L2J" },
+    "B39M": { "full_name": "Boeing 737 MAX 9", "seats": 193, "class": "L2J" },
+
+    "B772": { "full_name": "Boeing 777-200", "seats": 314, "class": "H2J" },
+    "B773": { "full_name": "Boeing 777-300", "seats": 368, "class": "H2J" },
+    "B788": { "full_name": "Boeing 787-8", "seats": 248, "class": "H2J" },
+    "B789": { "full_name": "Boeing 787-9", "seats": 296, "class": "H2J" },
+    "B78X": { "full_name": "Boeing 787-10", "seats": 330, "class": "H2J" },
+    "A359": { "full_name": "Airbus A350-900", "seats": 325, "class": "H2J" },
+    "A35K": { "full_name": "Airbus A350-1000", "seats": 366, "class": "H2J" },
+
+    "E170": { "full_name": "Embraer E170", "seats": 76, "class": "M2J" },
+    "E175": { "full_name": "Embraer E175", "seats": 76, "class": "M2J" },
+    "E190": { "full_name": "Embraer E190", "seats": 104, "class": "M2J" },
+    "E195": { "full_name": "Embraer E195", "seats": 118, "class": "M2J" },
+
+    "CRJ2": { "full_name": "CRJ-200", "seats": 50, "class": "M2J" },
+    "CRJ7": { "full_name": "CRJ-700", "seats": 70, "class": "M2J" },
+    "CRJ9": { "full_name": "CRJ-900", "seats": 76, "class": "M2J" },
+
+    "DH8A": { "full_name": "Dash-8 Q100", "seats": 37, "class": "T2P" },
+    "DH8C": { "full_name": "Dash-8 Q300", "seats": 50, "class": "T2P" },
+    "DH8D": { "full_name": "Dash-8 Q400", "seats": 78, "class": "T2P" },
+
+    "C208": { "full_name": "Cessna Caravan 208", "seats": 9, "class": "GA" },
+    "C172": { "full_name": "Cessna 172", "seats": 4, "class": "GA" },
+    "SR22": { "full_name": "Cirrus SR22", "seats": 4, "class": "GA" },
+    "PA28": { "full_name": "Piper PA-28 Cherokee", "seats": 4, "class": "GA" },
+
+    "B350": { "full_name": "King Air 350", "seats": 11, "class": "T1P" },
+
+    "H60":  { "full_name": "Sikorsky UH-60 Black Hawk", "seats": 11, "class": "HELI" },
+    "H47":  { "full_name": "Boeing CH-47 Chinook", "seats": 33, "class": "HELI" },
+    "H125": { "full_name": "Airbus H125/AS350", "seats": 6, "class": "HELI" }
+  }
 }
