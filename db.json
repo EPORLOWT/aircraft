@@ -1,0 +1,8 @@
+{
+  "aircraft": {
+    "A320": { "full_name": "Airbus A320", "seats": 180, "class": "L2J" },
+    "B738": { "full_name": "Boeing 737-800", "seats": 160, "class": "L2J" }
+  },
+  "version": "v2025.01.01",
+  "generated": 1735680000
+}
