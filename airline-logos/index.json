@@ -1,0 +1,19 @@
+{
+  "version": "2025.01.01",
+  "logos": [
+    { "prefix": "AAL", "type": "AMERICAN" },
+    { "prefix": "AA",  "type": "AMERICAN" },
+    { "prefix": "DAL", "type": "DELTA" },
+    { "prefix": "DL",  "type": "DELTA" },
+    { "prefix": "SWA", "type": "SOUTHWEST" },
+    { "prefix": "WN",  "type": "SOUTHWEST" },
+    { "prefix": "UAL", "type": "UNITED" },
+    { "prefix": "UA",  "type": "UNITED" },
+    { "prefix": "FDX", "type": "FEDEX" },
+    { "prefix": "UPS", "type": "UPS" },
+    { "prefix": "FFT", "type": "FRONTIER" },
+    { "prefix": "NKS", "type": "SPIRIT" },
+    { "prefix": "JBU", "type": "JETBLUE" },
+    { "prefix": "B6",  "type": "JETBLUE" }
+  ]
+}
