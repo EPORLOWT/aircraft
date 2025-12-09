@@ -1,16 +1,384 @@
 {
   "schema": 2,
-  "generated_utc": "2025-12-02T03:45:12Z",
+  "generated_utc": "2025-12-09T12:00:00Z",
   "source": {
     "aircraft": "OpenSky aircraft-types",
     "seats": "data/seats_reference.csv + scraped"
   },
   "aircraft": {
+    "B77L": {
+      "icao": "B77L",
+      "manufacturer": "Boeing",
+      "name": "777-9",
+      "full_name": "Boeing 777-9",
+      "seats": 371,
+      "class": "L2J"
+    },
+    "A21N": {
+      "icao": "A21N",
+      "manufacturer": "Airbus",
+      "name": "A321neo",
+      "full_name": "Airbus A321neo",
+      "seats": 194,
+      "class": "L2J"
+    },
     "A320": {
       "icao": "A320",
       "manufacturer": "Airbus",
       "name": "A320",
       "full_name": "Airbus A320",
+      "seats": 150,
+      "class": "L2J"
+    },
+    "B744": {
+      "icao": "B744",
+      "manufacturer": "Boeing",
+      "name": "747-400",
+      "full_name": "Boeing 747-400",
+      "seats": 409,
+      "class": "L2J"
+    },
+    "B738": {
+      "icao": "B738",
+      "manufacturer": "Boeing",
+      "name": "737-800",
+      "full_name": "Boeing 737-800",
+      "seats": 162,
+      "class": "L2J"
+    },
+    "A321": {
+      "icao": "A321",
+      "manufacturer": "Airbus",
+      "name": "A321",
+      "full_name": "Airbus A321",
+      "seats": 185,
+      "class": "L2J"
+    },
+    "B737": {
+      "icao": "B737",
+      "manufacturer": "Boeing",
+      "name": "737-700",
+      "full_name": "Boeing 737-700",
+      "seats": 149,
+      "class": "L2J"
+    },
+    "A319": {
+      "icao": "A319",
+      "manufacturer": "Airbus",
+      "name": "A319",
+      "full_name": "Airbus A319",
+      "seats": 124,
+      "class": "L2J"
+    },
+    "B77W": {
+      "icao": "B77W",
+      "manufacturer": "Boeing",
+      "name": "777-300ER",
+      "full_name": "Boeing 777-300ER",
+      "seats": 350,
+      "class": "L2J"
+    },
+    "A35K": {
+      "icao": "A35K",
+      "manufacturer": "Airbus",
+      "name": "A350-900",
+      "full_name": "Airbus A350-900",
+      "seats": 410,
+      "class": "L2J"
+    },
+    "B789": {
+      "icao": "B789",
+      "manufacturer": "Boeing",
+      "name": "787-9",
+      "full_name": "Boeing 787-9",
+      "seats": 296,
+      "class": "L2J"
+    },
+    "B788": {
+      "icao": "B788",
+      "manufacturer": "Boeing",
+      "name": "787-8",
+      "full_name": "Boeing 787-8",
+      "seats": 242,
+      "class": "L2J"
+    },
+    "A359": {
+      "icao": "A359",
+      "manufacturer": "Airbus",
+      "name": "A350-900",
+      "full_name": "Airbus A350-900",
+      "seats": 315,
+      "class": "L2J"
+    },
+    "B78X": {
+      "icao": "B78X",
+      "manufacturer": "Boeing",
+      "name": "787-10",
+      "full_name": "Boeing 787-10",
+      "seats": 337,
+      "class": "L2J"
+    },
+    "B787": {
+      "icao": "B787",
+      "manufacturer": "Boeing",
+      "name": "787",
+      "full_name": "Boeing 787",
+      "seats": 242,
+      "class": "L2J"
+    },
+    "A339": {
+      "icao": "A339",
+      "manufacturer": "Airbus",
+      "name": "A330-900neo",
+      "full_name": "Airbus A330-900neo",
+      "seats": 300,
+      "class": "L2J"
+    },
+    "A333": {
+      "icao": "A333",
+      "manufacturer": "Airbus",
+      "name": "A330-300",
+      "full_name": "Airbus A330-300",
+      "seats": 300,
+      "class": "L2J"
+    },
+    "A332": {
+      "icao": "A332",
+      "manufacturer": "Airbus",
+      "name": "A330-200",
+      "full_name": "Airbus A330-200",
+      "seats": 253,
+      "class": "L2J"
+    },
+    "B772": {
+      "icao": "B772",
+      "manufacturer": "Boeing",
+      "name": "777-200",
+      "full_name": "Boeing 777-200",
+      "seats": 312,
+      "class": "L2J"
+    },
+    "B773": {
+      "icao": "B773",
+      "manufacturer": "Boeing",
+      "name": "777-300",
+      "full_name": "Boeing 777-300",
+      "seats": 365,
+      "class": "L2J"
+    },
+    "B764": {
+      "icao": "B764",
+      "manufacturer": "Boeing",
+      "name": "767-400",
+      "full_name": "Boeing 767-400",
+      "seats": 243,
+      "class": "L2J"
+    },
+    "B763": {
+      "icao": "B763",
+      "manufacturer": "Boeing",
+      "name": "767-300",
+      "full_name": "Boeing 767-300",
+      "seats": 218,
+      "class": "L2J"
+    },
+    "B762": {
+      "icao": "B762",
+      "manufacturer": "Boeing",
+      "name": "767-200",
+      "full_name": "Boeing 767-200",
+      "seats": 200,
+      "class": "L2J"
+    },
+    "A388": {
+      "icao": "A388",
+      "manufacturer": "Airbus",
+      "name": "A380-800",
+      "full_name": "Airbus A380-800",
+      "seats": 471,
+      "class": "L2J"
+    },
+    "A343": {
+      "icao": "A343",
+      "manufacturer": "Airbus",
+      "name": "A340-300",
+      "full_name": "Airbus A340-300",
+      "seats": 275,
+      "class": "L2J"
+    },
+    "A346": {
+      "icao": "A346",
+      "manufacturer": "Airbus",
+      "name": "A340-600",
+      "full_name": "Airbus A340-600",
+      "seats": 380,
+      "class": "L2J"
+    },
+    "A345": {
+      "icao": "A345",
+      "manufacturer": "Airbus",
+      "name": "A340-500",
+      "full_name": "Airbus A340-500",
+      "seats": 313,
+      "class": "L2J"
+    },
+    "E195": {
+      "icao": "E195",
+      "manufacturer": "Embraer",
+      "name": "E195",
+      "full_name": "Embraer E195",
+      "seats": 124,
+      "class": "L2J"
+    },
+    "E190": {
+      "icao": "E190",
+      "manufacturer": "Embraer",
+      "name": "E190",
+      "full_name": "Embraer E190",
+      "seats": 104,
+      "class": "L2J"
+    },
+    "E175": {
+      "icao": "E175",
+      "manufacturer": "Embraer",
+      "name": "E175",
+      "full_name": "Embraer E175",
+      "seats": 76,
+      "class": "L2J"
+    },
+    "E170": {
+      "icao": "E170",
+      "manufacturer": "Embraer",
+      "name": "E170",
+      "full_name": "Embraer E170",
+      "seats": 70,
+      "class": "L2J"
+    },
+    "BCS3": {
+      "icao": "BCS3",
+      "manufacturer": "Airbus",
+      "name": "A220-300",
+      "full_name": "Airbus A220-300",
+      "seats": 145,
+      "class": "L2J"
+    },
+    "BCS1": {
+      "icao": "BCS1",
+      "manufacturer": "Airbus",
+      "name": "A220-100",
+      "full_name": "Airbus A220-100",
+      "seats": 110,
+      "class": "L2J"
+    },
+    "CRJ9": {
+      "icao": "CRJ9",
+      "manufacturer": "Bombardier",
+      "name": "CRJ-900",
+      "full_name": "Bombardier CRJ-900",
+      "seats": 90,
+      "class": "L2J"
+    },
+    "CRJ7": {
+      "icao": "CRJ7",
+      "manufacturer": "Bombardier",
+      "name": "CRJ-700",
+      "full_name": "Bombardier CRJ-700",
+      "seats": 78,
+      "class": "L2J"
+    },
+    "CRJ2": {
+      "icao": "CRJ2",
+      "manufacturer": "Bombardier",
+      "name": "CRJ-200",
+      "full_name": "Bombardier CRJ-200",
+      "seats": 50,
+      "class": "L2J"
+    },
+    "E75L": {
+      "icao": "E75L",
+      "manufacturer": "Embraer",
+      "name": "E175-LR",
+      "full_name": "Embraer E175-LR",
+      "seats": 88,
+      "class": "L2J"
+    },
+    "E75S": {
+      "icao": "E75S",
+      "manufacturer": "Embraer",
+      "name": "E175-SP",
+      "full_name": "Embraer E175-SP",
+      "seats": 76,
+      "class": "L2J"
+    },
+    "A20N": {
+      "icao": "A20N",
+      "manufacturer": "Airbus",
+      "name": "A220-300",
+      "full_name": "Airbus A220-300",
+      "seats": 150,
+      "class": "L2J"
+    },
+    "B38M": {
+      "icao": "B38M",
+      "manufacturer": "Boeing",
+      "name": "737 MAX 8",
+      "full_name": "Boeing 737 MAX 8",
+      "seats": 178,
+      "class": "L2J"
+    },
+    "B39M": {
+      "icao": "B39M",
+      "manufacturer": "Boeing",
+      "name": "737 MAX 9",
+      "full_name": "Boeing 737 MAX 9",
+      "seats": 200,
+      "class": "L2J"
+    },
+    "B3AM": {
+      "icao": "B3AM",
+      "manufacturer": "Boeing",
+      "name": "737 MAX 10",
+      "full_name": "Boeing 737 MAX 10",
+      "seats": 210,
+      "class": "L2J"
+    },
+    "B37M": {
+      "icao": "B37M",
+      "manufacturer": "Boeing",
+      "name": "737 MAX 7",
+      "full_name": "Boeing 737 MAX 7",
+      "seats": 172,
+      "class": "L2J"
+    },
+    "B736": {
+      "icao": "B736",
+      "manufacturer": "Boeing",
+      "name": "737-600",
+      "full_name": "Boeing 737-600",
+      "seats": 132,
+      "class": "L2J"
+    },
+    "B734": {
+      "icao": "B734",
+      "manufacturer": "Boeing",
+      "name": "737-400",
+      "full_name": "Boeing 737-400",
+      "seats": 146,
+      "class": "L2J"
+    },
+    "B733": {
+      "icao": "B733",
+      "manufacturer": "Boeing",
+      "name": "737-300",
+      "full_name": "Boeing 737-300",
+      "seats": 130,
+      "class": "L2J"
+    },
+    "B752": {
+      "icao": "B752",
+      "manufacturer": "Boeing",
+      "name": "757-200",
+      "full_name": "Boeing 757-200",
       "seats": 186,
       "class": "L2J"
     },
@@ -22,12 +390,284 @@
       "seats": 243,
       "class": "L2J"
     },
-    "C56X": {
-      "icao": "C56X",
+    "AT76": {
+      "icao": "AT76",
+      "manufacturer": "ATR",
+      "name": "ATR 72-600",
+      "full_name": "ATR ATR 72-600",
+      "seats": 72,
+      "class": "L2J"
+    },
+    "AT75": {
+      "icao": "AT75",
+      "manufacturer": "ATR",
+      "name": "ATR 72-500",
+      "full_name": "ATR ATR 72-500",
+      "seats": 68,
+      "class": "L2J"
+    },
+    "AT73": {
+      "icao": "AT73",
+      "manufacturer": "ATR",
+      "name": "ATR 72-200/210",
+      "full_name": "ATR ATR 72-200/210",
+      "seats": 72,
+      "class": "L2J"
+    },
+    "DH8D": {
+      "icao": "DH8D",
+      "manufacturer": "De Havilland Canada",
+      "name": "DHC-8-400",
+      "full_name": "De Havilland Canada DHC-8-400",
+      "seats": 78,
+      "class": "L2J"
+    },
+    "DH8C": {
+      "icao": "DH8C",
+      "manufacturer": "De Havilland Canada",
+      "name": "DHC-8-300",
+      "full_name": "De Havilland Canada DHC-8-300",
+      "seats": 76,
+      "class": "L2J"
+    },
+    "DH8B": {
+      "icao": "DH8B",
+      "manufacturer": "De Havilland Canada",
+      "name": "DHC-8-100",
+      "full_name": "De Havilland Canada DHC-8-100",
+      "seats": 50,
+      "class": "L2J"
+    },
+    "DHC6": {
+      "icao": "DHC6",
+      "manufacturer": "De Havilland Canada",
+      "name": "DHC-6 Twin Otter",
+      "full_name": "De Havilland Canada DHC-6 Twin Otter",
+      "seats": 19,
+      "class": "L2J"
+    },
+    "SF34": {
+      "icao": "SF34",
+      "manufacturer": "Saab",
+      "name": "340B",
+      "full_name": "Saab 340B",
+      "seats": 34,
+      "class": "L2J"
+    },
+    "B748": {
+      "icao": "B748",
+      "manufacturer": "Boeing",
+      "name": "747-8",
+      "full_name": "Boeing 747-8",
+      "seats": 467,
+      "class": "L2J"
+    },
+    "A124": {
+      "icao": "A124",
+      "manufacturer": "Antonov",
+      "name": "An-124",
+      "full_name": "Antonov An-124",
+      "seats": 0,
+      "class": "L2J"
+    },
+    "IL96": {
+      "icao": "IL96",
+      "manufacturer": "Ilyushin",
+      "name": "Il-96",
+      "full_name": "Ilyushin Il-96",
+      "seats": 300,
+      "class": "L2J"
+    },
+    "MD11": {
+      "icao": "MD11",
+      "manufacturer": "McDonnell Douglas",
+      "name": "MD-11",
+      "full_name": "McDonnell Douglas MD-11",
+      "seats": 285,
+      "class": "L2J"
+    },
+    "MD90": {
+      "icao": "MD90",
+      "manufacturer": "McDonnell Douglas",
+      "name": "MD-90",
+      "full_name": "McDonnell Douglas MD-90",
+      "seats": 158,
+      "class": "L2J"
+    },
+    "MD82": {
+      "icao": "MD82",
+      "manufacturer": "McDonnell Douglas",
+      "name": "MD-82",
+      "full_name": "McDonnell Douglas MD-82",
+      "seats": 149,
+      "class": "L2J"
+    },
+    "MD83": {
+      "icao": "MD83",
+      "manufacturer": "McDonnell Douglas",
+      "name": "MD-83",
+      "full_name": "McDonnell Douglas MD-83",
+      "seats": 149,
+      "class": "L2J"
+    },
+    "B461": {
+      "icao": "B461",
+      "manufacturer": "BAe",
+      "name": "146-100",
+      "full_name": "BAe 146-100",
+      "seats": 145,
+      "class": "L2J"
+    },
+    "B462": {
+      "icao": "B462",
+      "manufacturer": "BAe",
+      "name": "146-200",
+      "full_name": "BAe 146-200",
+      "seats": 145,
+      "class": "L2J"
+    },
+    "B463": {
+      "icao": "B463",
+      "manufacturer": "BAe",
+      "name": "146-300",
+      "full_name": "BAe 146-300",
+      "seats": 145,
+      "class": "L2J"
+    },
+    "CRJX": {
+      "icao": "CRJX",
+      "manufacturer": "Bombardier",
+      "name": "CRJ-1000",
+      "full_name": "Bombardier CRJ-1000",
+      "seats": 100,
+      "class": "L2J"
+    },
+    "E145": {
+      "icao": "E145",
+      "manufacturer": "Embraer",
+      "name": "ERJ-145",
+      "full_name": "Embraer ERJ-145",
+      "seats": 50,
+      "class": "L2J"
+    },
+    "E135": {
+      "icao": "E135",
+      "manufacturer": "Embraer",
+      "name": "ERJ-135",
+      "full_name": "Embraer ERJ-135",
+      "seats": 37,
+      "class": "L2J"
+    },
+    "E140": {
+      "icao": "E140",
+      "manufacturer": "Embraer",
+      "name": "ERJ-140",
+      "full_name": "Embraer ERJ-140",
+      "seats": 44,
+      "class": "L2J"
+    },
+    "B190": {
+      "icao": "B190",
+      "manufacturer": "Beechcraft",
+      "name": "1900D",
+      "full_name": "Beechcraft 1900D",
+      "seats": 19,
+      "class": "L2J"
+    },
+    "C208": {
+      "icao": "C208",
       "manufacturer": "Cessna",
-      "name": "Citation Excel/XLS",
-      "full_name": "Cessna Citation Excel/XLS",
+      "name": "208 Caravan",
+      "full_name": "Cessna 208 Caravan",
       "seats": 9,
+      "class": "L2J"
+    },
+    "B732": {
+      "icao": "B732",
+      "manufacturer": "Boeing",
+      "name": "737-200",
+      "full_name": "Boeing 737-200",
+      "seats": 120,
+      "class": "L2J"
+    },
+    "B712": {
+      "icao": "B712",
+      "manufacturer": "Boeing",
+      "name": "717-200",
+      "full_name": "Boeing 717-200",
+      "seats": 117,
+      "class": "L2J"
+    },
+    "A306": {
+      "icao": "A306",
+      "manufacturer": "Airbus",
+      "name": "A300-600",
+      "full_name": "Airbus A300-600",
+      "seats": 250,
+      "class": "L2J"
+    },
+    "A310": {
+      "icao": "A310",
+      "manufacturer": "Airbus",
+      "name": "A310",
+      "full_name": "Airbus A310",
+      "seats": 218,
+      "class": "L2J"
+    },
+    "SU95": {
+      "icao": "SU95",
+      "manufacturer": "Sukhoi",
+      "name": "Superjet 100",
+      "full_name": "Sukhoi Superjet 100",
+      "seats": 98,
+      "class": "L2J"
+    },
+    "AN148": {
+      "icao": "AN148",
+      "manufacturer": "Antonov",
+      "name": "An-148",
+      "full_name": "Antonov An-148",
+      "seats": 85,
+      "class": "L2J"
+    },
+    "A337": {
+      "icao": "A337",
+      "manufacturer": "Airbus",
+      "name": "A330-700L",
+      "full_name": "Airbus A330-700L",
+      "seats": 440,
+      "class": "L2J"
+    },
+    "A338": {
+      "icao": "A338",
+      "manufacturer": "Airbus",
+      "name": "A330-800neo",
+      "full_name": "Airbus A330-800neo",
+      "seats": 375,
+      "class": "L2J"
+    },
+    "B781": {
+      "icao": "B781",
+      "manufacturer": "Boeing",
+      "name": "777-8",
+      "full_name": "Boeing 777-8",
+      "seats": 350,
+      "class": "L2J"
+    },
+    "B782": {
+      "icao": "B782",
+      "manufacturer": "Boeing",
+      "name": "777-200LR",
+      "full_name": "Boeing 777-200LR",
+      "seats": 326,
+      "class": "L2J"
+    },
+    "B783": {
+      "icao": "B783",
+      "manufacturer": "Boeing",
+      "name": "777F",
+      "full_name": "Boeing 777F",
+      "seats": 0,
       "class": "L2J"
     }
   }
