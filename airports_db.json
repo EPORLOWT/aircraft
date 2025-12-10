@@ -1,0 +1,3334 @@
+{
+  "airports": [
+    {
+      "iata": "AAC",
+      "name": "El Arish International Airport",
+      "short": "El Arish Int'l"
+    },
+    {
+      "iata": "AAE",
+      "name": "Rabah Bitat Airport (Les Salines Airport)",
+      "short": "Annaba"
+    },
+    {
+      "iata": "ABJ",
+      "name": "Port Bouet Airport (Felix Houphouet Boigny Int'l)",
+      "short": "Abidjan Int'l"
+    },
+    {
+      "iata": "ABQ",
+      "name": "Albuquerque International Sunport",
+      "short": "Albuquerque Int'l"
+    },
+    {
+      "iata": "ABR",
+      "name": "Aberdeen Regional Airport",
+      "short": "Aberdeen"
+    },
+    {
+      "iata": "ABV",
+      "name": "Nnamdi Azikiwe International Airport",
+      "short": "Abuja Int'l"
+    },
+    {
+      "iata": "ABX",
+      "name": "Albury Airport",
+      "short": "Albury"
+    },
+    {
+      "iata": "ABY",
+      "name": "Southwest Georgia Regional Airport",
+      "short": "Albany"
+    },
+    {
+      "iata": "ABZ",
+      "name": "Aberdeen Airport",
+      "short": "Aberdeen"
+    },
+    {
+      "iata": "ACA",
+      "name": "Acapulco International Airport",
+      "short": "Acapulco Int'l"
+    },
+    {
+      "iata": "ACC",
+      "name": "Kotoka International Airport",
+      "short": "Accra Int'l"
+    },
+    {
+      "iata": "ACE",
+      "name": "Lanzarote Airport",
+      "short": "Lanzarote"
+    },
+    {
+      "iata": "ADA",
+      "name": "Adana Şakirpaşa Airport",
+      "short": "Adana"
+    },
+    {
+      "iata": "ADB",
+      "name": "Adnan Menderes Airport",
+      "short": "İzmir"
+    },
+    {
+      "iata": "ADD",
+      "name": "Bole International Airport",
+      "short": "Addis Ababa Int'l"
+    },
+    {
+      "iata": "ADE",
+      "name": "Aden International Airport",
+      "short": "Aden Int'l"
+    },
+    {
+      "iata": "ADL",
+      "name": "Adelaide Airport",
+      "short": "Adelaide"
+    },
+    {
+      "iata": "AEP",
+      "name": "Jorge Newbery Airpark",
+      "short": "Buenos Aires"
+    },
+    {
+      "iata": "AER",
+      "name": "Sochi International Airport",
+      "short": "Sochi Int'l"
+    },
+    {
+      "iata": "AES",
+      "name": "Ålesund Airport, Vigra",
+      "short": "Ålesund"
+    },
+    {
+      "iata": "AEX",
+      "name": "Alexandria International Airport (Louisiana)",
+      "short": "Alexandria"
+    },
+    {
+      "iata": "AGA",
+      "name": "Agadir–Al Massira Airport",
+      "short": "Agadir"
+    },
+    {
+      "iata": "AGP",
+      "name": "Málaga Airport",
+      "short": "Málaga"
+    },
+    {
+      "iata": "AGR",
+      "name": "Agra Airport",
+      "short": "Agra"
+    },
+    {
+      "iata": "AGS",
+      "name": "Augusta Regional Airport at Bush Field",
+      "short": "Augusta"
+    },
+    {
+      "iata": "AGT",
+      "name": "Guaraní International Airport",
+      "short": "Ciudad del Este"
+    },
+    {
+      "iata": "AGU",
+      "name": "Lic. Jesús Terán Pérido International Airport",
+      "short": "Aguascalientes Int'l"
+    },
+    {
+      "iata": "AGX",
+      "name": "Agatti Aerodrome",
+      "short": "Agatti Island"
+    },
+    {
+      "iata": "AHB",
+      "name": "Abha Regional Airport",
+      "short": "Abha"
+    },
+    {
+      "iata": "AHO",
+      "name": "Alghero-Fertilia Airport",
+      "short": "Alghero"
+    },
+    {
+      "iata": "AHU",
+      "name": "Cherif Al Idrissi Airport",
+      "short": "Al Hoceima"
+    },
+    {
+      "iata": "AHZ",
+      "name": "Alpe d'Huez Airport",
+      "short": "Alpe d'Huez"
+    },
+    {
+      "iata": "AIA",
+      "name": "Alliance Municipal Airport",
+      "short": "Alliance"
+    },
+    {
+      "iata": "AIG",
+      "name": "Yalinga Airport",
+      "short": "Yalinga"
+    },
+    {
+      "iata": "AIK",
+      "name": "Aiken Municipal Airport",
+      "short": "Aiken"
+    },
+    {
+      "iata": "AIN",
+      "name": "Wainwright Airport (Alaska) (FAA: AWI)",
+      "short": "Wainwright"
+    },
+    {
+      "iata": "AIP",
+      "name": "Adampur Airport",
+      "short": "Jalandhar"
+    },
+    {
+      "iata": "AIT",
+      "name": "Aitutaki Airport",
+      "short": "Aitutaki"
+    },
+    {
+      "iata": "AIU",
+      "name": "Enua Airport",
+      "short": "Enua"
+    },
+    {
+      "iata": "AIV",
+      "name": "George Downer Airport",
+      "short": "Aliceville"
+    },
+    {
+      "iata": "AIZ",
+      "name": "Lee C. Fine Memorial Airport",
+      "short": "Lake Ozark"
+    },
+    {
+      "iata": "AJA",
+      "name": "Ajaccio Napoleon Bonaparte Airport",
+      "short": "Ajaccio"
+    },
+    {
+      "iata": "AJF",
+      "name": "Al-Jawf Domestic Airport",
+      "short": "Sakakah"
+    },
+    {
+      "iata": "AJI",
+      "name": "Ağrı Airport",
+      "short": "Ağrı"
+    },
+    {
+      "iata": "AJL",
+      "name": "Lengpui Airport",
+      "short": "Aizawl"
+    },
+    {
+      "iata": "AJU",
+      "name": "Santa Maria Airport (Sergipe)",
+      "short": "Aracaju"
+    },
+    {
+      "iata": "AJY",
+      "name": "Mano Dayak International Airport",
+      "short": "Agadez"
+    },
+    {
+      "iata": "AKA",
+      "name": "Ankang Wulipu Airport",
+      "short": "Ankang"
+    },
+    {
+      "iata": "AKB",
+      "name": "Atka Airport (FAA: AKA)",
+      "short": "Atka"
+    },
+    {
+      "iata": "AKC",
+      "name": "Akron Fulton International Airport (FAA: AKR)",
+      "short": "Akron"
+    },
+    {
+      "iata": "AKD",
+      "name": "Akola Airport",
+      "short": "Akola"
+    },
+    {
+      "iata": "AKJ",
+      "name": "Asahikawa Airport",
+      "short": "Asahikawa"
+    },
+    {
+      "iata": "AKL",
+      "name": "Auckland Airport",
+      "short": "Auckland"
+    },
+    {
+      "iata": "AKR",
+      "name": "Akure Airport",
+      "short": "Akure"
+    },
+    {
+      "iata": "AKT",
+      "name": "RAF Akrotiri",
+      "short": "Akrotiri"
+    },
+    {
+      "iata": "AKU",
+      "name": "Aksu Airport",
+      "short": "Aksu"
+    },
+    {
+      "iata": "AKV",
+      "name": "Akulivik Airport",
+      "short": "Akulivik"
+    },
+    {
+      "iata": "AKX",
+      "name": "Aktobe Airport",
+      "short": "Aktobe"
+    },
+    {
+      "iata": "AKY",
+      "name": "Sittwe Airport",
+      "short": "Sittwe"
+    },
+    {
+      "iata": "ALA",
+      "name": "Almaty International Airport",
+      "short": "Almaty Int'l"
+    },
+    {
+      "iata": "ALB",
+      "name": "Albany International Airport",
+      "short": "Albany"
+    },
+    {
+      "iata": "ALC",
+      "name": "Alicante–Elche Airport",
+      "short": "Alicante"
+    },
+    {
+      "iata": "ALG",
+      "name": "Houari Boumediene Airport",
+      "short": "Algiers"
+    },
+    {
+      "iata": "ALI",
+      "name": "Alice International Airport",
+      "short": "Alice"
+    },
+    {
+      "iata": "ALL",
+      "name": "Albenga Airport",
+      "short": "Albenga"
+    },
+    {
+      "iata": "ALM",
+      "name": "Alamogordo–White Sands Regional Airport",
+      "short": "Alamogordo"
+    },
+    {
+      "iata": "ALP",
+      "name": "Aleppo International Airport",
+      "short": "Aleppo Int'l"
+    },
+    {
+      "iata": "ALQ",
+      "name": "Alegrete Airport",
+      "short": "Alegrete"
+    },
+    {
+      "iata": "ALR",
+      "name": "Alexandra Aerodrome",
+      "short": "Alexandra"
+    },
+    {
+      "iata": "ALS",
+      "name": "San Luis Valley Regional Airport",
+      "short": "Alamosa"
+    },
+    {
+      "iata": "ALU",
+      "name": "Alula Airport",
+      "short": "Alula"
+    },
+    {
+      "iata": "ALW",
+      "name": "Walla Walla Regional Airport",
+      "short": "Walla Walla"
+    },
+    {
+      "iata": "ALX",
+      "name": "Thomas C. Russell Field",
+      "short": "Alexander City"
+    },
+    {
+      "iata": "ALY",
+      "name": "El Nouzha Airport",
+      "short": "Alexandria"
+    },
+    {
+      "iata": "AMA",
+      "name": "Rick Husband Amarillo International Airport",
+      "short": "Amarillo Int'l"
+    },
+    {
+      "iata": "AMD",
+      "name": "Sardar Vallabhbhai Patel International Airport",
+      "short": "Ahmedabad Int'l"
+    },
+    {
+      "iata": "AMM",
+      "name": "Queen Alia International Airport",
+      "short": "Amman Int'l"
+    },
+    {
+      "iata": "AMS",
+      "name": "Amsterdam Airport Schiphol",
+      "short": "Amsterdam"
+    },
+    {
+      "iata": "AMT",
+      "name": "Amata Airport",
+      "short": "Amata"
+    },
+    {
+      "iata": "AMW",
+      "name": "Ames Municipal Airport",
+      "short": "Ames"
+    },
+    {
+      "iata": "AMX",
+      "name": "Ammaroo Airport",
+      "short": "Ammaroo"
+    },
+    {
+      "iata": "AMY",
+      "name": "Ambatomainty Airport",
+      "short": "Ambatomainty"
+    },
+    {
+      "iata": "AMZ",
+      "name": "Ardmore Airport (New Zealand)",
+      "short": "Ardmore"
+    },
+    {
+      "iata": "ANA",
+      "name": "Angama Mara Airport",
+      "short": "Angama Mara"
+    },
+    {
+      "iata": "ANB",
+      "name": "Anniston Regional Airport",
+      "short": "Anniston"
+    },
+    {
+      "iata": "ANC",
+      "name": "Ted Stevens Anchorage International Airport",
+      "short": "Anchorage Int'l"
+    },
+    {
+      "iata": "AND",
+      "name": "Anderson Regional Airport",
+      "short": "Anderson"
+    },
+    {
+      "iata": "ANE",
+      "name": "Angers – Loire Airport",
+      "short": "Angers"
+    },
+    {
+      "iata": "ANF",
+      "name": "Cerro Moreno International Airport",
+      "short": "Antofagasta Int'l"
+    },
+    {
+      "iata": "ANG",
+      "name": "Angoulême – Cognac International Airport",
+      "short": "Angoulême"
+    },
+    {
+      "iata": "ANI",
+      "name": "Aniak Airport",
+      "short": "Aniak"
+    },
+    {
+      "iata": "ANK",
+      "name": "Etimesgut Air Base",
+      "short": "Ankara"
+    },
+    {
+      "iata": "BAH",
+      "name": "Bahrain International Airport",
+      "short": "Bahrain Int'l"
+    },
+    {
+      "iata": "BAQ",
+      "name": "Ernesto Cortissoz International Airport",
+      "short": "Cartagena Int'l"
+    },
+    {
+      "iata": "BBI",
+      "name": "Biju Patnaik International Airport",
+      "short": "Bhubaneswar Int'l"
+    },
+    {
+      "iata": "BCN",
+      "name": "Barcelona–El Prat Airport",
+      "short": "Barcelona Int'l"
+    },
+    {
+      "iata": "BDA",
+      "name": "L.F. Wade International Airport",
+      "short": "Bermuda Int'l"
+    },
+    {
+      "iata": "BEG",
+      "name": "Belgrade Nikola Tesla Airport",
+      "short": "Belgrade Int'l"
+    },
+    {
+      "iata": "BEL",
+      "name": "Val de Cans International Airport",
+      "short": "Belém Int'l"
+    },
+    {
+      "iata": "BEN",
+      "name": "Benina International Airport",
+      "short": "Benghazi Int'l"
+    },
+    {
+      "iata": "BER",
+      "name": "Berlin Brandenburg Airport",
+      "short": "Berlin Int'l"
+    },
+    {
+      "iata": "BES",
+      "name": "Brest Bretagne Airport",
+      "short": "Brest Int'l"
+    },
+    {
+      "iata": "BGA",
+      "name": "Palonegro International Airport",
+      "short": "Bucaramanga Int'l"
+    },
+    {
+      "iata": "BGI",
+      "name": "Grantley Adams International Airport",
+      "short": "Barbados Int'l"
+    },
+    {
+      "iata": "BGO",
+      "name": "Bergen Airport, Flesland",
+      "short": "Bergen Int'l"
+    },
+    {
+      "iata": "BHM",
+      "name": "Birmingham–Shuttlesworth International Airport",
+      "short": "Birmingham Int'l"
+    },
+    {
+      "iata": "BHO",
+      "name": "Raja Bhoj Airport",
+      "short": "Bhopal Int'l"
+    },
+    {
+      "iata": "BIL",
+      "name": "Billings Logan International Airport",
+      "short": "Billings Int'l"
+    },
+    {
+      "iata": "BIO",
+      "name": "Bilbao Airport",
+      "short": "Bilbao Int'l"
+    },
+    {
+      "iata": "BJV",
+      "name": "Milas–Bodrum Airport",
+      "short": "Bodrum Int'l"
+    },
+    {
+      "iata": "BJX",
+      "name": "Del Bajío International Airport",
+      "short": "León Int'l"
+    },
+    {
+      "iata": "BKK",
+      "name": "Suvarnabhumi Airport",
+      "short": "Bangkok Int'l"
+    },
+    {
+      "iata": "BLA",
+      "name": "General José Antonio Anzoátegui International Airport",
+      "short": "Barcelona Int'l"
+    },
+    {
+      "iata": "BLQ",
+      "name": "Bologna Guglielmo Marconi Airport",
+      "short": "Bologna Int'l"
+    },
+    {
+      "iata": "BLR",
+      "name": "Kempegowda International Airport",
+      "short": "Bengaluru Int'l"
+    },
+    {
+      "iata": "BLZ",
+      "name": "Chileka International Airport",
+      "short": "Blantyre Int'l"
+    },
+    {
+      "iata": "BNA",
+      "name": "Nashville International Airport",
+      "short": "Nashville Int'l"
+    },
+    {
+      "iata": "BNE",
+      "name": "Brisbane Airport",
+      "short": "Brisbane Int'l"
+    },
+    {
+      "iata": "BOD",
+      "name": "Bordeaux–Mérignac Airport",
+      "short": "Bordeaux Int'l"
+    },
+    {
+      "iata": "BOG",
+      "name": "El Dorado International Airport",
+      "short": "Bogotá Int'l"
+    },
+    {
+      "iata": "BOI",
+      "name": "Boise Air Terminal",
+      "short": "Boise Int'l"
+    },
+    {
+      "iata": "BOM",
+      "name": "Chhatrapati Shivaji International Airport",
+      "short": "Mumbai Int'l"
+    },
+    {
+      "iata": "BON",
+      "name": "Flamingo International Airport",
+      "short": "Bonaire Int'l"
+    },
+    {
+      "iata": "BOO",
+      "name": "Bodø Airport",
+      "short": "Bodø Int'l"
+    },
+    {
+      "iata": "BOS",
+      "name": "Logan International Airport",
+      "short": "Boston Int'l"
+    },
+    {
+      "iata": "BRI",
+      "name": "Bari Karol Wojtyła Airport",
+      "short": "Bari Int'l"
+    },
+    {
+      "iata": "BRU",
+      "name": "Brussels Airport",
+      "short": "Brussels Int'l"
+    },
+    {
+      "iata": "BSL",
+      "name": "EuroAirport Basel-Mulhouse-Freiburg",
+      "short": "Basel Int'l"
+    },
+    {
+      "iata": "BSR",
+      "name": "Basra International Airport",
+      "short": "Basra Int'l"
+    },
+    {
+      "iata": "BSZ",
+      "name": "Manas International Airport",
+      "short": "Bishkek Int'l"
+    },
+    {
+      "iata": "BTJ",
+      "name": "Sultan Iskandar Muda International Airport",
+      "short": "Banda Aceh Int'l"
+    },
+    {
+      "iata": "BTS",
+      "name": "M. R. Štefánik Airport",
+      "short": "Bratislava Int'l"
+    },
+    {
+      "iata": "BUD",
+      "name": "Budapest Ferenc Liszt International Airport",
+      "short": "Budapest Int'l"
+    },
+    {
+      "iata": "BUF",
+      "name": "Buffalo Niagara International Airport",
+      "short": "Buffalo Int'l"
+    },
+    {
+      "iata": "BUS",
+      "name": "Batumi International Airport",
+      "short": "Batumi Int'l"
+    },
+    {
+      "iata": "BVA",
+      "name": "Beauvais–Tillé Airport",
+      "short": "Paris Beauvais Int'l"
+    },
+    {
+      "iata": "BVC",
+      "name": "Aristides Pereira International Airport",
+      "short": "Boa Vista Int'l"
+    },
+    {
+      "iata": "BWN",
+      "name": "Brunei International Airport",
+      "short": "Bandar Seri Begawan Int'l"
+    },
+    {
+      "iata": "BZO",
+      "name": "Bolzano Airport",
+      "short": "Bolzano Int'l"
+    },
+    {
+      "iata": "BZY",
+      "name": "Bălți International Airport",
+      "short": "Bălți Int'l"
+    },
+    {
+      "iata": "CAE",
+      "name": "Columbia Metropolitan Airport",
+      "short": "Columbia, SC"
+    },
+    {
+      "iata": "CAI",
+      "name": "Cairo International Airport",
+      "short": "Cairo Int'l"
+    },
+    {
+      "iata": "CAK",
+      "name": "Akron-Canton Airport",
+      "short": "Akron-Canton, OH"
+    },
+    {
+      "iata": "CAN",
+      "name": "Guangzhou Baiyun International Airport",
+      "short": "Guangzhou Int'l"
+    },
+    {
+      "iata": "CCS",
+      "name": "Simón Bolívar International Airport",
+      "short": "Caracas Int'l"
+    },
+    {
+      "iata": "CCU",
+      "name": "Netaji Subhas Chandra Bose International Airport",
+      "short": "Kolkata Int'l"
+    },
+    {
+      "iata": "CGB",
+      "name": "Maréchal Rondon International Airport",
+      "short": "Cuiabá Int'l"
+    },
+    {
+      "iata": "CGK",
+      "name": "Soekarno–Hatta International Airport",
+      "short": "Jakarta Int'l"
+    },
+    {
+      "iata": "CGN",
+      "name": "Cologne Bonn Airport",
+      "short": "Cologne"
+    },
+    {
+      "iata": "CGO",
+      "name": "Zhengzhou Xinzheng International Airport",
+      "short": "Zhengzhou Int'l"
+    },
+    {
+      "iata": "CGP",
+      "name": "Shah Amanat International Airport",
+      "short": "Chittagong Int'l"
+    },
+    {
+      "iata": "CGQ",
+      "name": "Changchun Longjia International Airport",
+      "short": "Changchun Int'l"
+    },
+    {
+      "iata": "CGR",
+      "name": "Campo Grande International Airport",
+      "short": "Campo Grande Int'l"
+    },
+    {
+      "iata": "CHC",
+      "name": "Christchurch International Airport",
+      "short": "Christchurch Int'l"
+    },
+    {
+      "iata": "CHQ",
+      "name": "Chania International Airport",
+      "short": "Chania Int'l"
+    },
+    {
+      "iata": "CHS",
+      "name": "Charleston International Airport",
+      "short": "Charleston, SC"
+    },
+    {
+      "iata": "CIA",
+      "name": "Ciampino–G. B. Pastine International Airport",
+      "short": "Rome Ciampino Int'l"
+    },
+    {
+      "iata": "CID",
+      "name": "The Eastern Iowa Airport",
+      "short": "Cedar Rapids, IA"
+    },
+    {
+      "iata": "CLE",
+      "name": "Cleveland Hopkins International Airport",
+      "short": "Cleveland Int'l"
+    },
+    {
+      "iata": "CLT",
+      "name": "Charlotte Douglas International Airport",
+      "short": "Charlotte Int'l"
+    },
+    {
+      "iata": "CLJ",
+      "name": "Cluj-Napoca International Airport",
+      "short": "Cluj Int'l"
+    },
+    {
+      "iata": "CMB",
+      "name": "Bandaranaike International Airport",
+      "short": "Colombo Int'l"
+    },
+    {
+      "iata": "CMH",
+      "name": "John Glenn Columbus International Airport",
+      "short": "Columbus, OH"
+    },
+    {
+      "iata": "CMN",
+      "name": "Mohammed V International Airport",
+      "short": "Casablanca Int'l"
+    },
+    {
+      "iata": "CNX",
+      "name": "Chiang Mai International Airport",
+      "short": "Chiang Mai Int'l"
+    },
+    {
+      "iata": "CNQ",
+      "name": "Doctor Fernando Piragine Niveyro International Airport",
+      "short": "Corrientes Int'l"
+    },
+    {
+      "iata": "DAB",
+      "name": "Daytona Beach International Airport",
+      "short": "Daytona Beach Int'l"
+    },
+    {
+      "iata": "DAL",
+      "name": "Dallas Love Field",
+      "short": "Dallas Love"
+    },
+    {
+      "iata": "DCA",
+      "name": "Ronald Reagan Washington National Airport",
+      "short": "DC National"
+    },
+    {
+      "iata": "DAY",
+      "name": "Dayton International Airport",
+      "short": "Dayton Int'l"
+    },
+    {
+      "iata": "DEN",
+      "name": "Denver International Airport",
+      "short": "Denver Int'l"
+    },
+    {
+      "iata": "DET",
+      "name": "Coleman A. Young International Airport",
+      "short": "Detroit Int'l"
+    },
+    {
+      "iata": "DFW",
+      "name": "Dallas/Fort Worth International Airport",
+      "short": "DFW Int'l"
+    },
+    {
+      "iata": "DEL",
+      "name": "Indira Gandhi International Airport",
+      "short": "Delhi Int'l"
+    },
+    {
+      "iata": "DPS",
+      "name": "Ngurah Rai International Airport",
+      "short": "Denpasar Int'l"
+    },
+    {
+      "iata": "DTW",
+      "name": "Detroit Metropolitan Wayne County Airport",
+      "short": "Detroit Metro"
+    },
+    {
+      "iata": "DUB",
+      "name": "Dublin Airport",
+      "short": "Dublin"
+    },
+    {
+      "iata": "DUR",
+      "name": "King Shaka International Airport",
+      "short": "Durban Int'l"
+    },
+    {
+      "iata": "DUS",
+      "name": "Düsseldorf Airport",
+      "short": "Düsseldorf"
+    },
+    {
+      "iata": "DXB",
+      "name": "Dubai International Airport",
+      "short": "Dubai Int'l"
+    },
+    {
+      "iata": "DMM",
+      "name": "King Fahd International Airport",
+      "short": "Dammam Int'l"
+    },
+    {
+      "iata": "DME",
+      "name": "Domodedovo International Airport",
+      "short": "Moscow Domodedovo"
+    },
+    {
+      "iata": "DAR",
+      "name": "Julius Nyerere International Airport",
+      "short": "Dar es Salaam Int'l"
+    },
+    {
+      "iata": "DAC",
+      "name": "Shahjalal International Airport",
+      "short": "Dhaka Int'l"
+    },
+    {
+      "iata": "DAD",
+      "name": "Da Nang International Airport",
+      "short": "Da Nang Int'l"
+    },
+    {
+      "iata": "DAM",
+      "name": "Damascus International Airport",
+      "short": "Damascus Int'l"
+    },
+    {
+      "iata": "DBV",
+      "name": "Dubrovnik Airport",
+      "short": "Dubrovnik"
+    },
+    {
+      "iata": "DLC",
+      "name": "Dalian Zhoushuizi International Airport",
+      "short": "Dalian Int'l"
+    },
+    {
+      "iata": "DLA",
+      "name": "Douala International Airport",
+      "short": "Douala Int'l"
+    },
+    {
+      "iata": "DIB",
+      "name": "Dibrugarh Airport (Mohanbari Airport)",
+      "short": "Dibrugarh"
+    },
+    {
+      "iata": "DIL",
+      "name": "Presidente Nicolau Lobato International Airport",
+      "short": "Dili Int'l"
+    },
+    {
+      "iata": "DIN",
+      "name": "Dien Bien Phu Airport",
+      "short": "Dien Bien Phu"
+    },
+    {
+      "iata": "DIY",
+      "name": "Diyarbakır Airport",
+      "short": "Diyarbakır"
+    },
+    {
+      "iata": "DJE",
+      "name": "Djerba–Zarzis International Airport",
+      "short": "Djerba Int'l"
+    },
+    {
+      "iata": "DNH",
+      "name": "Dunhuang Airport",
+      "short": "Dunhuang"
+    },
+    {
+      "iata": "DNK",
+      "name": "Dnipro International Airport",
+      "short": "Dnipro Int'l"
+    },
+    {
+      "iata": "DOD",
+      "name": "Dodoma Airport",
+      "short": "Dodoma"
+    },
+    {
+      "iata": "DOG",
+      "name": "Dongola Airport",
+      "short": "Dongola"
+    },
+    {
+      "iata": "DOH",
+      "name": "Hamad International Airport",
+      "short": "Doha Int'l"
+    },
+    {
+      "iata": "DOK",
+      "name": "Donetsk International Airport",
+      "short": "Donetsk Int'l"
+    },
+    {
+      "iata": "DOV",
+      "name": "Dover Air Force Base",
+      "short": "Dover AFB"
+    },
+    {
+      "iata": "DRW",
+      "name": "Darwin International Airport",
+      "short": "Darwin Int'l"
+    },
+    {
+      "iata": "DSA",
+      "name": "Doncaster Sheffield Airport",
+      "short": "Doncaster"
+    },
+    {
+      "iata": "DSM",
+      "name": "Des Moines International Airport",
+      "short": "Des Moines Int'l"
+    },
+    {
+      "iata": "DSN",
+      "name": "Ordos Ejin Horo Airport",
+      "short": "Ordos"
+    },
+    {
+      "iata": "DSS",
+      "name": "Blaise Diagne International Airport",
+      "short": "Dakar Int'l"
+    },
+    {
+      "iata": "DSY",
+      "name": "Dara Sakor International Airport",
+      "short": "Dara Sakor Int'l"
+    },
+    {
+      "iata": "DTM",
+      "name": "Dortmund Airport",
+      "short": "Dortmund"
+    },
+    {
+      "iata": "DUD",
+      "name": "Dunedin International Airport",
+      "short": "Dunedin Int'l"
+    },
+    {
+      "iata": "DVO",
+      "name": "Francisco Bangoy International Airport",
+      "short": "Davao Int'l"
+    },
+    {
+      "iata": "DYW",
+      "name": "Daly Waters Airport",
+      "short": "Daly Waters"
+    },
+    {
+      "iata": "DZA",
+      "name": "Dzaoudzi–Pamandzi International Airport",
+      "short": "Dzaoudzi Int'l"
+    },
+    {
+      "iata": "DZN",
+      "name": "Zhezkazgan Airport",
+      "short": "Zhezkazgan"
+    },
+    {
+      "iata": "EDI",
+      "name": "Edinburgh Airport",
+      "short": "Edinburgh"
+    },
+    {
+      "iata": "EIN",
+      "name": "Eindhoven Airport",
+      "short": "Eindhoven"
+    },
+    {
+      "iata": "EWR",
+      "name": "Newark Liberty International Airport",
+      "short": "Newark"
+    },
+    {
+      "iata": "EZE",
+      "name": "Ministro Pistarini International Airport",
+      "short": "Buenos Aires Int'l"
+    },
+    {
+      "iata": "EXT",
+      "name": "Exeter International Airport",
+      "short": "Exeter Int'l"
+    },
+    {
+      "iata": "EYW",
+      "name": "Key West International Airport",
+      "short": "Key West Int'l"
+    },
+    {
+      "iata": "EVN",
+      "name": "Zvartnots International Airport",
+      "short": "Yerevan Int'l"
+    },
+    {
+      "iata": "EAP",
+      "name": "EuroAirport Basel Mulhouse Freiburg",
+      "short": "Basel/Mulhouse"
+    },
+    {
+      "iata": "EBB",
+      "name": "Entebbe International Airport",
+      "short": "Entebbe Int'l"
+    },
+    {
+      "iata": "EBL",
+      "name": "Erbil International Airport",
+      "short": "Erbil Int'l"
+    },
+    {
+      "iata": "EDL",
+      "name": "Eldoret International Airport",
+      "short": "Eldoret Int'l"
+    },
+    {
+      "iata": "EGO",
+      "name": "Belgorod International Airport",
+      "short": "Belgorod Int'l"
+    },
+    {
+      "iata": "EGP",
+      "name": "Maverick County Memorial International Airport",
+      "short": "Eagle Pass Int'l"
+    },
+    {
+      "iata": "EIS",
+      "name": "Terrance B. Lettsome International Airport",
+      "short": "Tortola Int'l"
+    },
+    {
+      "iata": "ELP",
+      "name": "El Paso International Airport",
+      "short": "El Paso Int'l"
+    },
+    {
+      "iata": "ENA",
+      "name": "Kenai Municipal Airport",
+      "short": "Kenai"
+    },
+    {
+      "iata": "FAO",
+      "name": "Faro Airport",
+      "short": "Faro"
+    },
+    {
+      "iata": "FAI",
+      "name": "Fairbanks International Airport",
+      "short": "Fairbanks Int'l"
+    },
+    {
+      "iata": "FAR",
+      "name": "Hector International Airport",
+      "short": "Fargo Int'l"
+    },
+    {
+      "iata": "FAT",
+      "name": "Fresno Yosemite International Airport",
+      "short": "Fresno Int'l"
+    },
+    {
+      "iata": "FAY",
+      "name": "Fayetteville Regional Airport (Grannis Field)",
+      "short": "Fayetteville"
+    },
+    {
+      "iata": "FCO",
+      "name": "Leonardo da Vinci–Fiumicino Airport",
+      "short": "Rome Int'l"
+    },
+    {
+      "iata": "FLL",
+      "name": "Fort Lauderdale–Hollywood International Airport",
+      "short": "Ft. Lauderdale Int'l"
+    },
+    {
+      "iata": "FLN",
+      "name": "Hercílio Luz International Airport",
+      "short": "Florianópolis Int'l"
+    },
+    {
+      "iata": "FLR",
+      "name": "Florence Airport, Peretola (Amerigo Vespucci Airport)",
+      "short": "Florence"
+    },
+    {
+      "iata": "FNC",
+      "name": "Madeira Airport",
+      "short": "Funchal"
+    },
+    {
+      "iata": "FNI",
+      "name": "Nîmes–Alès–Camargue–Cévennes Airport (Garons Airport)",
+      "short": "Nîmes"
+    },
+    {
+      "iata": "FNJ",
+      "name": "Pyongyang Sunan International Airport",
+      "short": "Pyongyang Int'l"
+    },
+    {
+      "iata": "FNT",
+      "name": "Bishop International Airport",
+      "short": "Flint"
+    },
+    {
+      "iata": "FOC",
+      "name": "Fuzhou Changle International Airport",
+      "short": "Fuzhou Int'l"
+    },
+    {
+      "iata": "FOR",
+      "name": "Pinto Martins – Fortaleza International Airport",
+      "short": "Fortaleza Int'l"
+    },
+    {
+      "iata": "FRA",
+      "name": "Frankfurt Airport",
+      "short": "Frankfurt"
+    },
+    {
+      "iata": "FRL",
+      "name": "Forlì International Airport (Luigi Ridolfi Airport)",
+      "short": "Forlì Int'l"
+    },
+    {
+      "iata": "FSD",
+      "name": "Sioux Falls Regional Airport (Joe Foss Field)",
+      "short": "Sioux Falls"
+    },
+    {
+      "iata": "FSM",
+      "name": "Fort Smith Regional Airport",
+      "short": "Fort Smith"
+    },
+    {
+      "iata": "FSZ",
+      "name": "Shizuoka Airport (Mt. Fuji Shizuoka Airport)",
+      "short": "Shizuoka"
+    },
+    {
+      "iata": "FUE",
+      "name": "Fuerteventura Airport",
+      "short": "Fuerteventura"
+    },
+    {
+      "iata": "FUK",
+      "name": "Fukuoka Airport (Itazuke Air Base)",
+      "short": "Fukuoka"
+    },
+    {
+      "iata": "FUT",
+      "name": "Pointe Vele Airport",
+      "short": "Futuna"
+    },
+    {
+      "iata": "FWA",
+      "name": "Fort Wayne International Airport",
+      "short": "Fort Wayne Int'l"
+    },
+    {
+      "iata": "FPO",
+      "name": "Grand Bahama International Airport",
+      "short": "Grand Bahama Int'l"
+    },
+    {
+      "iata": "FPR",
+      "name": "St. Lucie County International Airport",
+      "short": "Fort Pierce Int'l"
+    },
+    {
+      "iata": "GAU",
+      "name": "Lokpriya Gopinath Bordoloi International Airport",
+      "short": "Guwahati Int'l"
+    },
+    {
+      "iata": "GDL",
+      "name": "Guadalajara International Airport (Miguel Hidalgo y Costilla Int'l)",
+      "short": "Guadalajara Int'l"
+    },
+    {
+      "iata": "GDN",
+      "name": "Gdańsk Lech Wałęsa Airport",
+      "short": "Gdańsk Int'l"
+    },
+    {
+      "iata": "GDQ",
+      "name": "Gondar Airport (Atse Tewodros Airport)",
+      "short": "Gondar Int'l"
+    },
+    {
+      "iata": "GDT",
+      "name": "JAGS McCartney International Airport (Grand Turk Int'l)",
+      "short": "Grand Turk Int'l"
+    },
+    {
+      "iata": "GEG",
+      "name": "Spokane International Airport",
+      "short": "Spokane Int'l"
+    },
+    {
+      "iata": "GEO",
+      "name": "Cheddi Jagan International Airport",
+      "short": "Georgetown Int'l"
+    },
+    {
+      "iata": "GES",
+      "name": "General Santos International Airport (Tambler Airport)",
+      "short": "GenSan Int'l"
+    },
+    {
+      "iata": "GIG",
+      "name": "Rio de Janeiro–Galeão International Airport",
+      "short": "Rio Int'l"
+    },
+    {
+      "iata": "GIM",
+      "name": "Gimpo International Airport",
+      "short": "Seoul Gimpo Int'l"
+    },
+    {
+      "iata": "GNB",
+      "name": "Grenoble–Isère Airport",
+      "short": "Grenoble Int'l"
+    },
+    {
+      "iata": "GNJ",
+      "name": "Ganja International Airport",
+      "short": "Ganja Int'l"
+    },
+    {
+      "iata": "HAJ",
+      "name": "Hannover Airport",
+      "short": "Hannover"
+    },
+    {
+      "iata": "HAK",
+      "name": "Haikou Meilan International Airport",
+      "short": "Haikou Int'l"
+    },
+    {
+      "iata": "HAM",
+      "name": "Hamburg Airport",
+      "short": "Hamburg"
+    },
+    {
+      "iata": "HAN",
+      "name": "Noi Bai International Airport",
+      "short": "Hanoi Int'l"
+    },
+    {
+      "iata": "HAV",
+      "name": "José Martí International Airport",
+      "short": "Havana Int'l"
+    },
+    {
+      "iata": "HBA",
+      "name": "Hobart Airport",
+      "short": "Hobart"
+    },
+    {
+      "iata": "HDS",
+      "name": "Air Force Base Hoedspruit",
+      "short": "Hoedspruit AFB"
+    },
+    {
+      "iata": "HDY",
+      "name": "Hat Yai International Airport",
+      "short": "Hat Yai Int'l"
+    },
+    {
+      "iata": "HEA",
+      "name": "Herat International Airport",
+      "short": "Herat Int'l"
+    },
+    {
+      "iata": "HEL",
+      "name": "Helsinki Airport (Helsinki-Vantaa Airport)",
+      "short": "Helsinki Int'l"
+    },
+    {
+      "iata": "HER",
+      "name": "Heraklion International Airport (Nikos Kazantzakis Airport)",
+      "short": "Heraklion Int'l"
+    },
+    {
+      "iata": "HET",
+      "name": "Hohhot Baita International Airport",
+      "short": "Hohhot Int'l"
+    },
+    {
+      "iata": "HFA",
+      "name": "Haifa Airport (Uri Michaeli Airport)",
+      "short": "Haifa"
+    },
+    {
+      "iata": "HFE",
+      "name": "Hefei Xinqiao International Airport (formerly Hefei Luogang International Airport)",
+      "short": "Hefei Int'l"
+    },
+    {
+      "iata": "HGH",
+      "name": "Hangzhou Xiaoshan International Airport",
+      "short": "Hangzhou Int'l"
+    },
+    {
+      "iata": "HKG",
+      "name": "Hong Kong International Airport (Chek Lap Kok Airport)",
+      "short": "Hong Kong Int'l"
+    },
+    {
+      "iata": "HKT",
+      "name": "Phuket International Airport",
+      "short": "Phuket Int'l"
+    },
+    {
+      "iata": "HRE",
+      "name": "Harare International Airport",
+      "short": "Harare Int'l"
+    },
+    {
+      "iata": "HRG",
+      "name": "Hurghada International Airport",
+      "short": "Hurghada Int'l"
+    },
+    {
+      "iata": "HRK",
+      "name": "Kharkiv International Airport (Osnova Airport)",
+      "short": "Kharkiv Int'l"
+    },
+    {
+      "iata": "HRL",
+      "name": "Valley International Airport",
+      "short": "Harlingen"
+    },
+    {
+      "iata": "HSV",
+      "name": "Huntsville International Airport (Carl T. Jones Field)",
+      "short": "Huntsville Int'l"
+    },
+    {
+      "iata": "HUI",
+      "name": "Phu Bai International Airport",
+      "short": "Hue Int'l"
+    },
+    {
+      "iata": "HUX",
+      "name": "Bahías de Huatulco International Airport",
+      "short": "Huatulco Int'l"
+    },
+    {
+      "iata": "HYD",
+      "name": "Rajiv Gandhi International Airport",
+      "short": "Hyderabad Int'l"
+    },
+    {
+      "iata": "HYN",
+      "name": "Taizhou Luqiao Airport",
+      "short": "Taizhou"
+    },
+    {
+      "iata": "HZA",
+      "name": "Heze Mudan Airport",
+      "short": "Heze"
+    },
+    {
+      "iata": "HZG",
+      "name": "Hanzhong Chenggu Airport",
+      "short": "Hanzhong"
+    },
+    {
+      "iata": "IAD",
+      "name": "Washington Dulles International Airport",
+      "short": "Dulles Int'l"
+    },
+    {
+      "iata": "IAG",
+      "name": "Niagara Falls International Airport",
+      "short": "Niagara Falls Int'l"
+    },
+    {
+      "iata": "IAH",
+      "name": "George Bush Intercontinental Airport",
+      "short": "Houston Int'l"
+    },
+    {
+      "iata": "IAS",
+      "name": "Iași International Airport",
+      "short": "Iași Int'l"
+    },
+    {
+      "iata": "IBZ",
+      "name": "Ibiza Airport",
+      "short": "Ibiza Int'l"
+    },
+    {
+      "iata": "ICN",
+      "name": "Incheon International Airport",
+      "short": "Incheon Int'l"
+    },
+    {
+      "iata": "ICT",
+      "name": "Wichita Dwight D. Eisenhower National Airport",
+      "short": "Wichita"
+    },
+    {
+      "iata": "IDR",
+      "name": "Devi Ahilyabai Holkar International Airport",
+      "short": "Indore Int'l"
+    },
+    {
+      "iata": "IEV",
+      "name": "Kyiv International Airport (Zhuliany)",
+      "short": "Kyiv Int'l"
+    },
+    {
+      "iata": "IFN",
+      "name": "Isfahan International Airport (Shahid Beheshti Int'l)",
+      "short": "Isfahan Int'l"
+    },
+    {
+      "iata": "IFO",
+      "name": "Ivano-Frankivsk International Airport",
+      "short": "Ivano-Frankivsk Int'l"
+    },
+    {
+      "iata": "IGR",
+      "name": "Cataratas del Iguazú International Airport",
+      "short": "Iguazú Int'l"
+    },
+    {
+      "iata": "IGU",
+      "name": "Foz do Iguaçu International Airport",
+      "short": "Foz do Iguaçu Int'l"
+    },
+    {
+      "iata": "ILO",
+      "name": "Iloilo International Airport",
+      "short": "Iloilo Int'l"
+    },
+    {
+      "iata": "IMF",
+      "name": "Imphal International Airport (Tulihal Airport)",
+      "short": "Imphal Int'l"
+    },
+    {
+      "iata": "IND",
+      "name": "Indianapolis International Airport",
+      "short": "Indianapolis Int'l"
+    },
+    {
+      "iata": "INN",
+      "name": "Innsbruck Airport (Kranebitten Airport)",
+      "short": "Innsbruck"
+    },
+    {
+      "iata": "INL",
+      "name": "Falls International Airport",
+      "short": "International Falls"
+    },
+    {
+      "iata": "INT",
+      "name": "Smith Reynolds Airport",
+      "short": "Winston-Salem"
+    },
+    {
+      "iata": "INU",
+      "name": "Nauru International Airport",
+      "short": "Nauru Int'l"
+    },
+    {
+      "iata": "INV",
+      "name": "Inverness Airport",
+      "short": "Inverness"
+    },
+    {
+      "iata": "INZ",
+      "name": "In Salah Airport",
+      "short": "In Salah"
+    },
+    {
+      "iata": "IOA",
+      "name": "Ioannina National Airport",
+      "short": "Ioannina"
+    },
+    {
+      "iata": "IOM",
+      "name": "Isle of Man Airport (Ronaldsway Airport)",
+      "short": "Isle of Man"
+    },
+    {
+      "iata": "IOS",
+      "name": "Ilhéus Jorge Amado Airport",
+      "short": "Ilhéus"
+    },
+    {
+      "iata": "IOW",
+      "name": "Iowa City Municipal Airport",
+      "short": "Iowa City"
+    },
+    {
+      "iata": "IPC",
+      "name": "Mataveri International Airport (Isla de Pascua Airport)",
+      "short": "Easter Island Int'l"
+    },
+    {
+      "iata": "IPH",
+      "name": "Sultan Azlan Shah Airport",
+      "short": "Ipoh"
+    },
+    {
+      "iata": "IPL",
+      "name": "Imperial County Airport (Boley Field)",
+      "short": "Imperial"
+    },
+    {
+      "iata": "IPT",
+      "name": "Williamsport Regional Airport",
+      "short": "Williamsport"
+    },
+    {
+      "iata": "IQI",
+      "name": "Diego Aracena International Airport",
+      "short": "Iquique Int'l"
+    },
+    {
+      "iata": "IQT",
+      "name": "Coronel FAP Francisco Secada Vignetta International Airport",
+      "short": "Iquitos Int'l"
+    },
+    {
+      "iata": "IRK",
+      "name": "Kirksville Regional Airport",
+      "short": "Kirksville"
+    },
+    {
+      "iata": "ISA",
+      "name": "Mount Isa Airport",
+      "short": "Mount Isa"
+    },
+    {
+      "iata": "ISB",
+      "name": "Islamabad International Airport",
+      "short": "Islamabad Int'l"
+    },
+    {
+      "iata": "ISM",
+      "name": "Kissimmee Gateway Airport",
+      "short": "Kissimmee"
+    },
+    {
+      "iata": "ISN",
+      "name": "Sloulin Field International Airport",
+      "short": "Williston Int'l"
+    },
+    {
+      "iata": "ISP",
+      "name": "Long Island MacArthur Airport",
+      "short": "Islip"
+    },
+    {
+      "iata": "IST",
+      "name": "Istanbul Airport",
+      "short": "Istanbul Int'l"
+    },
+    {
+      "iata": "ISU",
+      "name": "Sulaimaniyah International Airport",
+      "short": "Sulaimaniyah Int'l"
+    },
+    {
+      "iata": "ITM",
+      "name": "Osaka International Airport (Itami Int'l)",
+      "short": "Osaka Int'l"
+    },
+    {
+      "iata": "ITO",
+      "name": "Hilo International Airport",
+      "short": "Hilo Int'l"
+    },
+    {
+      "iata": "IXA",
+      "name": "Agartala Airport (Singerbhil Airport)",
+      "short": "Agartala"
+    },
+    {
+      "iata": "IXB",
+      "name": "Bagdogra Airport",
+      "short": "Bagdogra"
+    },
+    {
+      "iata": "IXC",
+      "name": "Chandigarh Airport",
+      "short": "Chandigarh"
+    },
+    {
+      "iata": "IXD",
+      "name": "Allahabad Airport (Bamrauli Air Force Base)",
+      "short": "Allahabad"
+    },
+    {
+      "iata": "IXE",
+      "name": "Mangalore Airport (Mangaluru)",
+      "short": "Mangaluru"
+    },
+    {
+      "iata": "IXG",
+      "name": "Belgaum Airport",
+      "short": "Belgaum"
+    },
+    {
+      "iata": "IXH",
+      "name": "Kailashahar Airport",
+      "short": "Kailashahar"
+    },
+    {
+      "iata": "IXI",
+      "name": "Lilabari Airport",
+      "short": "North Lakhimpur"
+    },
+    {
+      "iata": "IXJ",
+      "name": "Jammu Airport (Satwari Airport)",
+      "short": "Jammu"
+    },
+    {
+      "iata": "IXK",
+      "name": "Keshod Airport",
+      "short": "Keshod"
+    },
+    {
+      "iata": "IXL",
+      "name": "Kushok Bakula Rimpochee Airport",
+      "short": "Leh"
+    },
+    {
+      "iata": "IXM",
+      "name": "Madurai Airport",
+      "short": "Madurai"
+    },
+    {
+      "iata": "IXN",
+      "name": "Khowai Airport",
+      "short": "Khowai"
+    },
+    {
+      "iata": "IXP",
+      "name": "Pathankot Airport",
+      "short": "Pathankot"
+    },
+    {
+      "iata": "IXQ",
+      "name": "Kamalpur Airport",
+      "short": "Kamalpur"
+    },
+    {
+      "iata": "IXR",
+      "name": "Birsa Munda Airport",
+      "short": "Ranchi"
+    },
+    {
+      "iata": "IXS",
+      "name": "Silchar Airport",
+      "short": "Silchar"
+    },
+    {
+      "iata": "IXT",
+      "name": "Kheria Airport",
+      "short": "Agra"
+    },
+    {
+      "iata": "IXU",
+      "name": "Aurangabad Airport",
+      "short": "Aurangabad"
+    },
+    {
+      "iata": "IXW",
+      "name": "Jamshedpur Airport",
+      "short": "Jamshedpur"
+    },
+    {
+      "iata": "IXY",
+      "name": "Kandla Airport",
+      "short": "Kandla"
+    },
+    {
+      "iata": "IXZ",
+      "name": "Veer Savarkar International Airport",
+      "short": "Port Blair"
+    },
+    {
+      "iata": "IYB",
+      "name": "Ilyichovsk Airport",
+      "short": "Ilyichovsk"
+    },
+    {
+      "iata": "JAC",
+      "name": "Jackson Hole Airport",
+      "short": "Jackson Hole"
+    },
+    {
+      "iata": "JAI",
+      "name": "Jaipur International Airport",
+      "short": "Jaipur Int'l"
+    },
+    {
+      "iata": "JAK",
+      "name": "Jacmel Airport",
+      "short": "Jacmel"
+    },
+    {
+      "iata": "JAL",
+      "name": "Lencero Airport",
+      "short": "Jalapa"
+    },
+    {
+      "iata": "JAX",
+      "name": "Jacksonville International Airport",
+      "short": "Jacksonville Int'l"
+    },
+    {
+      "iata": "JCB",
+      "name": "Joacaba Airport",
+      "short": "Joaçaba"
+    },
+    {
+      "iata": "JDH",
+      "name": "Jodhpur Airport",
+      "short": "Jodhpur"
+    },
+    {
+      "iata": "JED",
+      "name": "King Abdulaziz International Airport",
+      "short": "Jeddah Int'l"
+    },
+    {
+      "iata": "JFK",
+      "name": "John F. Kennedy International Airport",
+      "short": "New York JFK"
+    },
+    {
+      "iata": "JGA",
+      "name": "Jamnagar Airport",
+      "short": "Jamnagar"
+    },
+    {
+      "iata": "JGN",
+      "name": "Jiayuguan Jiuquan Airport",
+      "short": "Jiayuguan"
+    },
+    {
+      "iata": "JHB",
+      "name": "Senai International Airport",
+      "short": "Johor Bahru"
+    },
+    {
+      "iata": "JHG",
+      "name": "Xishuangbanna Gasa Airport",
+      "short": "Jinghong"
+    },
+    {
+      "iata": "JIB",
+      "name": "Djibouti–Ambouli International Airport",
+      "short": "Djibouti Int'l"
+    },
+    {
+      "iata": "JIJ",
+      "name": "Jijiga Airport",
+      "short": "Jijiga"
+    },
+    {
+      "iata": "JKT",
+      "name": "Soekarno–Hatta International Airport (metropolitan code)",
+      "short": "Jakarta"
+    },
+    {
+      "iata": "JLR",
+      "name": "Jabalpur Airport",
+      "short": "Jabalpur"
+    },
+    {
+      "iata": "JMK",
+      "name": "Mykonos Island National Airport",
+      "short": "Mykonos"
+    },
+    {
+      "iata": "JNB",
+      "name": "O. R. Tambo International Airport",
+      "short": "Johannesburg Int'l"
+    },
+    {
+      "iata": "JNU",
+      "name": "Juneau International Airport",
+      "short": "Juneau Int'l"
+    },
+    {
+      "iata": "JOG",
+      "name": "Adisutjipto International Airport",
+      "short": "Yogyakarta"
+    },
+    {
+      "iata": "JPA",
+      "name": "Presidente Castro Pinto International Airport",
+      "short": "João Pessoa"
+    },
+    {
+      "iata": "JRO",
+      "name": "Kilimanjaro International Airport",
+      "short": "Kilimanjaro Int'l"
+    },
+    {
+      "iata": "JSR",
+      "name": "Jessore Airport",
+      "short": "Jessore"
+    },
+    {
+      "iata": "JUJ",
+      "name": "Gobernador Horacio Guzmán International Airport",
+      "short": "Jujuy"
+    },
+    {
+      "iata": "JUL",
+      "name": "Inca Manco Cápac International Airport",
+      "short": "Juliaca"
+    },
+    {
+      "iata": "KBL",
+      "name": "Kabul International Airport",
+      "short": "Kabul Int'l"
+    },
+    {
+      "iata": "KBV",
+      "name": "Krabi International Airport",
+      "short": "Krabi Int'l"
+    },
+    {
+      "iata": "KCH",
+      "name": "Kuching International Airport",
+      "short": "Kuching Int'l"
+    },
+    {
+      "iata": "KHH",
+      "name": "Kaohsiung International Airport",
+      "short": "Kaohsiung Int'l"
+    },
+    {
+      "iata": "KHI",
+      "name": "Jinnah International Airport",
+      "short": "Karachi Int'l"
+    },
+    {
+      "iata": "KHN",
+      "name": "Nanchang Changbei International Airport",
+      "short": "Nanchang Int'l"
+    },
+    {
+      "iata": "KHV",
+      "name": "Khabarovsk Novy Airport",
+      "short": "Khabarovsk"
+    },
+    {
+      "iata": "KIX",
+      "name": "Kansai International Airport",
+      "short": "Osaka Kansai"
+    },
+    {
+      "iata": "KJA",
+      "name": "Yemelyanovo International Airport",
+      "short": "Krasnoyarsk Int'l"
+    },
+    {
+      "iata": "KLD",
+      "name": "Migalovo Air Base",
+      "short": "Tver"
+    },
+    {
+      "iata": "KLO",
+      "name": "Kalibo International Airport",
+      "short": "Kalibo Int'l"
+    },
+    {
+      "iata": "KLR",
+      "name": "Kalmar Airport",
+      "short": "Kalmar"
+    },
+    {
+      "iata": "KLU",
+      "name": "Klagenfurt Airport",
+      "short": "Klagenfurt"
+    },
+    {
+      "iata": "KMG",
+      "name": "Kunming Changshui International Airport",
+      "short": "Kunming Int'l"
+    },
+    {
+      "iata": "KMI",
+      "name": "Miyazaki Airport",
+      "short": "Miyazaki"
+    },
+    {
+      "iata": "KMJ",
+      "name": "Kumamoto Airport",
+      "short": "Kumamoto"
+    },
+    {
+      "iata": "KNO",
+      "name": "Kualanamu International Airport",
+      "short": "Medan Int'l"
+    },
+    {
+      "iata": "KOA",
+      "name": "Ellison Onizuka Kona International Airport at Keahole",
+      "short": "Kona Int'l"
+    },
+    {
+      "iata": "KOJ",
+      "name": "Kagoshima Airport",
+      "short": "Kagoshima"
+    },
+    {
+      "iata": "KOK",
+      "name": "Kokkola-Pietarsaari Airport",
+      "short": "Kokkola"
+    },
+    {
+      "iata": "KPO",
+      "name": "Pohang Gyeongju Airport",
+      "short": "Pohang"
+    },
+    {
+      "iata": "KRF",
+      "name": "Höga Kusten Airport",
+      "short": "Kramfors"
+    },
+    {
+      "iata": "KRN",
+      "name": "Kiruna Airport",
+      "short": "Kiruna"
+    },
+    {
+      "iata": "KRP",
+      "name": "Karup Airport",
+      "short": "Karup"
+    },
+    {
+      "iata": "KRR",
+      "name": "Krasnodar International Airport",
+      "short": "Krasnodar Int'l"
+    },
+    {
+      "iata": "KRT",
+      "name": "Khartoum International Airport",
+      "short": "Khartoum Int'l"
+    },
+    {
+      "iata": "KSD",
+      "name": "Karlstad Airport",
+      "short": "Karlstad"
+    },
+    {
+      "iata": "KSH",
+      "name": "Shahid Ashrafi Esfahani Airport",
+      "short": "Kermanshah"
+    },
+    {
+      "iata": "KSN",
+      "name": "Kostanay Airport",
+      "short": "Kostanay"
+    },
+    {
+      "iata": "KTM",
+      "name": "Tribhuvan International Airport",
+      "short": "Kathmandu Int'l"
+    },
+    {
+      "iata": "KUA",
+      "name": "Kuantan Airport",
+      "short": "Kuantan"
+    },
+    {
+      "iata": "KUL",
+      "name": "Kuala Lumpur International Airport",
+      "short": "Kuala Lumpur"
+    },
+    {
+      "iata": "KWE",
+      "name": "Guiyang Longdongbao International Airport",
+      "short": "Guiyang Int'l"
+    },
+    {
+      "iata": "KWI",
+      "name": "Kuwait International Airport",
+      "short": "Kuwait Int'l"
+    },
+    {
+      "iata": "KWJ",
+      "name": "Gwangju Airport",
+      "short": "Gwangju"
+    },
+    {
+      "iata": "KZN",
+      "name": "Kazan International Airport",
+      "short": "Kazan Int'l"
+    },
+    {
+      "iata": "LAD",
+      "name": "Quatro de Fevereiro Airport",
+      "short": "Luanda Int'l"
+    },
+    {
+      "iata": "LAN",
+      "name": "Capital Region International Airport",
+      "short": "Lansing"
+    },
+    {
+      "iata": "LAS",
+      "name": "Harry Reid International Airport",
+      "short": "Las Vegas"
+    },
+    {
+      "iata": "LAX",
+      "name": "Los Angeles International Airport",
+      "short": "Los Angeles"
+    },
+    {
+      "iata": "LBA",
+      "name": "Leeds Bradford International Airport",
+      "short": "Leeds Bradford"
+    },
+    {
+      "iata": "LBB",
+      "name": "Lubbock Preston Smith International Airport",
+      "short": "Lubbock Int'l"
+    },
+    {
+      "iata": "LCA",
+      "name": "Larnaca International Airport",
+      "short": "Larnaca Int'l"
+    },
+    {
+      "iata": "LCG",
+      "name": "A Coruña Airport",
+      "short": "A Coruña"
+    },
+    {
+      "iata": "LCY",
+      "name": "London City Airport",
+      "short": "London City"
+    },
+    {
+      "iata": "LED",
+      "name": "Pulkovo Airport",
+      "short": "St. Petersburg"
+    },
+    {
+      "iata": "LEJ",
+      "name": "Leipzig/Halle Airport",
+      "short": "Leipzig"
+    },
+    {
+      "iata": "LGA",
+      "name": "LaGuardia Airport",
+      "short": "New York LGA"
+    },
+    {
+      "iata": "LHE",
+      "name": "Allama Iqbal International Airport",
+      "short": "Lahore Int'l"
+    },
+    {
+      "iata": "LHR",
+      "name": "Heathrow Airport",
+      "short": "London Heathrow"
+    },
+    {
+      "iata": "LHW",
+      "name": "Lanzhou Zhongchuan International Airport",
+      "short": "Lanzhou Int'l"
+    },
+    {
+      "iata": "LIH",
+      "name": "Lihue Airport",
+      "short": "Lihue"
+    },
+    {
+      "iata": "LIM",
+      "name": "Jorge Chávez International Airport",
+      "short": "Lima Int'l"
+    },
+    {
+      "iata": "LIN",
+      "name": "Linate Airport",
+      "short": "Milan Linate"
+    },
+    {
+      "iata": "LIS",
+      "name": "Humberto Delgado Airport",
+      "short": "Lisbon"
+    },
+    {
+      "iata": "LIT",
+      "name": "Bill and Hillary Clinton National Airport",
+      "short": "Little Rock"
+    },
+    {
+      "iata": "LJU",
+      "name": "Ljubljana Jože Pučnik Airport",
+      "short": "Ljubljana"
+    },
+    {
+      "iata": "LLA",
+      "name": "Luleå Airport",
+      "short": "Luleå"
+    },
+    {
+      "iata": "LLK",
+      "name": "Lankaran International Airport",
+      "short": "Lankaran"
+    },
+    {
+      "iata": "LMN",
+      "name": "Limbang Airport",
+      "short": "Limbang"
+    },
+    {
+      "iata": "LNY",
+      "name": "Lanai Airport",
+      "short": "Lanai"
+    },
+    {
+      "iata": "LPA",
+      "name": "Gran Canaria Airport",
+      "short": "Gran Canaria"
+    },
+    {
+      "iata": "LPB",
+      "name": "El Alto International Airport",
+      "short": "La Paz Int'l"
+    },
+    {
+      "iata": "LPI",
+      "name": "Linköping City Airport",
+      "short": "Linköping"
+    },
+    {
+      "iata": "LPL",
+      "name": "Liverpool John Lennon Airport",
+      "short": "Liverpool"
+    },
+    {
+      "iata": "LPQ",
+      "name": "Luang Prabang International Airport",
+      "short": "Luang Prabang"
+    },
+    {
+      "iata": "LRD",
+      "name": "Laredo International Airport",
+      "short": "Laredo Int'l"
+    },
+    {
+      "iata": "LRT",
+      "name": "Lorient South Brittany Airport",
+      "short": "Lorient"
+    },
+    {
+      "iata": "LUX",
+      "name": "Luxembourg Airport",
+      "short": "Luxembourg"
+    },
+    {
+      "iata": "LWO",
+      "name": "Lviv Danylo Halytskyi International Airport",
+      "short": "Lviv Int'l"
+    },
+    {
+      "iata": "LXR",
+      "name": "Luxor International Airport",
+      "short": "Luxor Int'l"
+    },
+    {
+      "iata": "LYI",
+      "name": "Linyi Shubuling Airport",
+      "short": "Linyi"
+    },
+    {
+      "iata": "LYR",
+      "name": "Svalbard Airport, Longyear",
+      "short": "Longyearbyen"
+    },
+    {
+      "iata": "LYS",
+      "name": "Lyon–Saint-Exupéry Airport",
+      "short": "Lyon"
+    },
+    {
+      "iata": "MAA",
+      "name": "Chennai International Airport",
+      "short": "Chennai Int'l"
+    },
+    {
+      "iata": "MAD",
+      "name": "Adolfo Suárez Madrid–Barajas Airport",
+      "short": "Madrid"
+    },
+    {
+      "iata": "MAN",
+      "name": "Manchester Airport",
+      "short": "Manchester"
+    },
+    {
+      "iata": "MAO",
+      "name": "Eduardo Gomes International Airport",
+      "short": "Manaus Int'l"
+    },
+    {
+      "iata": "MAR",
+      "name": "La Chinita International Airport",
+      "short": "Maracaibo Int'l"
+    },
+    {
+      "iata": "MCI",
+      "name": "Kansas City International Airport",
+      "short": "Kansas City"
+    },
+    {
+      "iata": "MCO",
+      "name": "Orlando International Airport",
+      "short": "Orlando Int'l"
+    },
+    {
+      "iata": "MCT",
+      "name": "Muscat International Airport",
+      "short": "Muscat Int'l"
+    },
+    {
+      "iata": "MDL",
+      "name": "Mandalay International Airport",
+      "short": "Mandalay Int'l"
+    },
+    {
+      "iata": "MDW",
+      "name": "Chicago Midway International Airport",
+      "short": "Chicago Midway"
+    },
+    {
+      "iata": "MEL",
+      "name": "Melbourne Airport",
+      "short": "Melbourne"
+    },
+    {
+      "iata": "MEM",
+      "name": "Memphis International Airport",
+      "short": "Memphis Int'l"
+    },
+    {
+      "iata": "MEX",
+      "name": "Mexico City International Airport",
+      "short": "Mexico City"
+    },
+    {
+      "iata": "MFE",
+      "name": "McAllen Miller International Airport",
+      "short": "McAllen Int'l"
+    },
+    {
+      "iata": "MFM",
+      "name": "Macau International Airport",
+      "short": "Macau Int'l"
+    },
+    {
+      "iata": "MGM",
+      "name": "Montgomery Regional Airport",
+      "short": "Montgomery"
+    },
+    {
+      "iata": "MHT",
+      "name": "Manchester–Boston Regional Airport",
+      "short": "Manchester NH"
+    },
+    {
+      "iata": "MIA",
+      "name": "Miami International Airport",
+      "short": "Miami Int'l"
+    },
+    {
+      "iata": "MIG",
+      "name": "Mianyang Nanjiao Airport",
+      "short": "Mianyang"
+    },
+    {
+      "iata": "MKE",
+      "name": "Milwaukee Mitchell International Airport",
+      "short": "Milwaukee"
+    },
+    {
+      "iata": "MKP",
+      "name": "Makin Airport",
+      "short": "Makin"
+    },
+    {
+      "iata": "MKY",
+      "name": "Mackay Airport",
+      "short": "Mackay"
+    },
+    {
+      "iata": "MLA",
+      "name": "Malta International Airport",
+      "short": "Malta Int'l"
+    },
+    {
+      "iata": "MLI",
+      "name": "Quad City International Airport",
+      "short": "Moline IL"
+    },
+    {
+      "iata": "MLM",
+      "name": "General Francisco J. Mujica International Airport",
+      "short": "Morelia Int'l"
+    },
+    {
+      "iata": "MMX",
+      "name": "Malmö Airport",
+      "short": "Malmö"
+    },
+    {
+      "iata": "MNL",
+      "name": "Ninoy Aquino International Airport",
+      "short": "Manila Int'l"
+    },
+    {
+      "iata": "MOB",
+      "name": "Mobile Regional Airport",
+      "short": "Mobile"
+    },
+    {
+      "iata": "MPL",
+      "name": "Montpellier–Méditerranée Airport",
+      "short": "Montpellier"
+    },
+    {
+      "iata": "MRU",
+      "name": "Sir Seewoosagur Ramgoolam International Airport",
+      "short": "Mauritius Int'l"
+    },
+    {
+      "iata": "MSY",
+      "name": "Louis Armstrong New Orleans International Airport",
+      "short": "New Orleans"
+    },
+    {
+      "iata": "MTY",
+      "name": "Monterrey International Airport",
+      "short": "Monterrey Int'l"
+    },
+    {
+      "iata": "MUC",
+      "name": "Munich Airport",
+      "short": "Munich"
+    },
+    {
+      "iata": "MXP",
+      "name": "Milan Malpensa Airport",
+      "short": "Milan Malpensa"
+    },
+    {
+      "iata": "MYJ",
+      "name": "Matsuyama Airport",
+      "short": "Matsuyama"
+    },
+    {
+      "iata": "MZL",
+      "name": "La Nubia Airport",
+      "short": "Manizales"
+    },
+    {
+      "iata": "NAG",
+      "name": "Dr. Babasaheb Ambedkar International Airport",
+      "short": "Nagpur"
+    },
+    {
+      "iata": "NAN",
+      "name": "Nadi International Airport",
+      "short": "Nadi Int'l"
+    },
+    {
+      "iata": "NBO",
+      "name": "Jomo Kenyatta International Airport",
+      "short": "Nairobi Int'l"
+    },
+    {
+      "iata": "NCE",
+      "name": "Nice Côte d'Azur Airport",
+      "short": "Nice"
+    },
+    {
+      "iata": "NGO",
+      "name": "Chūbu Centrair International Airport",
+      "short": "Nagoya"
+    },
+    {
+      "iata": "NKG",
+      "name": "Nanjing Lukou International Airport",
+      "short": "Nanjing Int'l"
+    },
+    {
+      "iata": "NJF",
+      "name": "Al Najaf International Airport",
+      "short": "Najaf Int'l"
+    },
+    {
+      "iata": "NNG",
+      "name": "Nanning Wuxu International Airport",
+      "short": "Nanning Int'l"
+    },
+    {
+      "iata": "NOU",
+      "name": "La Tontouta International Airport",
+      "short": "Nouméa Int'l"
+    },
+    {
+      "iata": "NQN",
+      "name": "Presidente Perón International Airport",
+      "short": "Neuquén"
+    },
+    {
+      "iata": "NRT",
+      "name": "Narita International Airport",
+      "short": "Tokyo Narita"
+    },
+    {
+      "iata": "NSI",
+      "name": "Yaoundé Nsimalen International Airport",
+      "short": "Yaoundé Int'l"
+    },
+    {
+      "iata": "NUE",
+      "name": "Nuremberg Airport",
+      "short": "Nuremberg"
+    },
+    {
+      "iata": "OAK",
+      "name": "Oakland International Airport",
+      "short": "Oakland Int'l"
+    },
+    {
+      "iata": "OKA",
+      "name": "Naha Airport",
+      "short": "Okinawa"
+    },
+    {
+      "iata": "OKC",
+      "name": "Will Rogers World Airport",
+      "short": "Oklahoma City"
+    },
+    {
+      "iata": "OMA",
+      "name": "Eppley Airfield",
+      "short": "Omaha"
+    },
+    {
+      "iata": "ONT",
+      "name": "Ontario International Airport",
+      "short": "Ontario CA"
+    },
+    {
+      "iata": "ORD",
+      "name": "O'Hare International Airport",
+      "short": "Chicago O'Hare"
+    },
+    {
+      "iata": "ORF",
+      "name": "Norfolk International Airport",
+      "short": "Norfolk Int'l"
+    },
+    {
+      "iata": "ORN",
+      "name": "Oran Es Sénia Airport",
+      "short": "Oran"
+    },
+    {
+      "iata": "OSL",
+      "name": "Oslo Airport, Gardermoen",
+      "short": "Oslo"
+    },
+    {
+      "iata": "OSR",
+      "name": "Leoš Janáček Airport Ostrava",
+      "short": "Ostrava"
+    },
+    {
+      "iata": "OTP",
+      "name": "Henri Coandă International Airport",
+      "short": "Bucharest"
+    },
+    {
+      "iata": "OVB",
+      "name": "Tolmachevo Airport",
+      "short": "Novosibirsk"
+    },
+    {
+      "iata": "OWB",
+      "name": "Owensboro–Daviess County Regional Airport",
+      "short": "Owensboro"
+    },
+    {
+      "iata": "OXB",
+      "name": "Osvaldo Vieira International Airport",
+      "short": "Bissau Int'l"
+    },
+    {
+      "iata": "PBI",
+      "name": "Palm Beach International Airport",
+      "short": "West Palm Beach"
+    },
+    {
+      "iata": "PDX",
+      "name": "Portland International Airport",
+      "short": "Portland OR"
+    },
+    {
+      "iata": "PEK",
+      "name": "Beijing Capital International Airport",
+      "short": "Beijing Capital"
+    },
+    {
+      "iata": "PEN",
+      "name": "Penang International Airport",
+      "short": "Penang Int'l"
+    },
+    {
+      "iata": "PER",
+      "name": "Perth Airport",
+      "short": "Perth"
+    },
+    {
+      "iata": "PHL",
+      "name": "Philadelphia International Airport",
+      "short": "Philadelphia"
+    },
+    {
+      "iata": "PHX",
+      "name": "Phoenix Sky Harbor International Airport",
+      "short": "Phoenix"
+    },
+    {
+      "iata": "PIK",
+      "name": "Glasgow Prestwick Airport",
+      "short": "Glasgow Prestwick"
+    },
+    {
+      "iata": "PIT",
+      "name": "Pittsburgh International Airport",
+      "short": "Pittsburgh"
+    },
+    {
+      "iata": "PKC",
+      "name": "Petropavlovsk-Kamchatsky Airport",
+      "short": "Petropavlovsk"
+    },
+    {
+      "iata": "PKX",
+      "name": "Beijing Daxing International Airport",
+      "short": "Beijing Daxing"
+    },
+    {
+      "iata": "PLM",
+      "name": "Sultan Mahmud Badaruddin II Airport",
+      "short": "Palembang"
+    },
+    {
+      "iata": "PML",
+      "name": "Port Moller Airport",
+      "short": "Port Moller"
+    },
+    {
+      "iata": "PMG",
+      "name": "Ponta Porã International Airport",
+      "short": "Ponta Porã"
+    },
+    {
+      "iata": "PMO",
+      "name": "Falcone–Borsellino Airport",
+      "short": "Palermo"
+    },
+    {
+      "iata": "PMW",
+      "name": "Brigadeiro Lysias Rodrigues Airport",
+      "short": "Palmas"
+    },
+    {
+      "iata": "PNA",
+      "name": "Pamplona Airport",
+      "short": "Pamplona"
+    },
+    {
+      "iata": "PNH",
+      "name": "Phnom Penh International Airport",
+      "short": "Phnom Penh Int'l"
+    },
+    {
+      "iata": "PNI",
+      "name": "Pohnpei International Airport",
+      "short": "Pohnpei Int'l"
+    },
+    {
+      "iata": "POA",
+      "name": "Salgado Filho International Airport",
+      "short": "Porto Alegre"
+    },
+    {
+      "iata": "POP",
+      "name": "Gregorio Luperón International Airport",
+      "short": "Puerto Plata"
+    },
+    {
+      "iata": "POS",
+      "name": "Piarco International Airport",
+      "short": "Port of Spain"
+    },
+    {
+      "iata": "PPT",
+      "name": "Faa'a International Airport",
+      "short": "Tahiti Int'l"
+    },
+    {
+      "iata": "PRG",
+      "name": "Václav Havel Airport Prague",
+      "short": "Prague"
+    },
+    {
+      "iata": "PSA",
+      "name": "Pisa International Airport",
+      "short": "Pisa"
+    },
+    {
+      "iata": "PSP",
+      "name": "Palm Springs International Airport",
+      "short": "Palm Springs"
+    },
+    {
+      "iata": "PTY",
+      "name": "Tocumen International Airport",
+      "short": "Panama City"
+    },
+    {
+      "iata": "PUJ",
+      "name": "Punta Cana International Airport",
+      "short": "Punta Cana"
+    },
+    {
+      "iata": "PUS",
+      "name": "Gimhae International Airport",
+      "short": "Busan"
+    },
+    {
+      "iata": "PVG",
+      "name": "Shanghai Pudong International Airport",
+      "short": "Shanghai Pudong"
+    },
+    {
+      "iata": "PWM",
+      "name": "Portland International Jetport",
+      "short": "Portland ME"
+    },
+    {
+      "iata": "PXM",
+      "name": "Puerto Escondido International Airport",
+      "short": "Puerto Escondido"
+    },
+    {
+      "iata": "QRO",
+      "name": "Querétaro Intercontinental Airport",
+      "short": "Querétaro"
+    },
+    {
+      "iata": "RAO",
+      "name": "Leite Lopes Airport",
+      "short": "Ribeirão Preto"
+    },
+    {
+      "iata": "RDU",
+      "name": "Raleigh–Durham International Airport",
+      "short": "Raleigh-Durham"
+    },
+    {
+      "iata": "REC",
+      "name": "Recife/Guararapes–Gilberto Freyre International Airport",
+      "short": "Recife Int'l"
+    },
+    {
+      "iata": "REP",
+      "name": "Siem Reap–Angkor International Airport",
+      "short": "Siem Reap"
+    },
+    {
+      "iata": "REU",
+      "name": "Reus Airport",
+      "short": "Reus"
+    },
+    {
+      "iata": "RGN",
+      "name": "Yangon International Airport",
+      "short": "Yangon Int'l"
+    },
+    {
+      "iata": "RIC",
+      "name": "Richmond International Airport",
+      "short": "Richmond Int'l"
+    },
+    {
+      "iata": "RIX",
+      "name": "Riga International Airport",
+      "short": "Riga"
+    },
+    {
+      "iata": "RNO",
+      "name": "Reno–Tahoe International Airport",
+      "short": "Reno-Tahoe"
+    },
+    {
+      "iata": "ROB",
+      "name": "Roberts International Airport",
+      "short": "Monrovia"
+    },
+    {
+      "iata": "ROC",
+      "name": "Greater Rochester International Airport",
+      "short": "Rochester NY"
+    },
+    {
+      "iata": "ROS",
+      "name": "Rosario – Islas Malvinas International Airport",
+      "short": "Rosario"
+    },
+    {
+      "iata": "RUH",
+      "name": "King Khalid International Airport",
+      "short": "Riyadh Int'l"
+    },
+    {
+      "iata": "RUN",
+      "name": "Roland Garros Airport",
+      "short": "Saint-Denis"
+    },
+    {
+      "iata": "RZE",
+      "name": "Rzeszów–Jasionka Airport",
+      "short": "Rzeszów"
+    },
+    {
+      "iata": "SAH",
+      "name": "Sana'a International Airport",
+      "short": "Sana'a Int'l"
+    },
+    {
+      "iata": "SAL",
+      "name": "El Salvador International Airport",
+      "short": "San Salvador"
+    },
+    {
+      "iata": "SAN",
+      "name": "San Diego International Airport",
+      "short": "San Diego"
+    },
+    {
+      "iata": "SAT",
+      "name": "San Antonio International Airport",
+      "short": "San Antonio"
+    },
+    {
+      "iata": "SAV",
+      "name": "Savannah/Hilton Head International Airport",
+      "short": "Savannah"
+    },
+    {
+      "iata": "SCL",
+      "name": "Arturo Merino Benítez International Airport",
+      "short": "Santiago"
+    },
+    {
+      "iata": "SCQ",
+      "name": "Santiago de Compostela Airport",
+      "short": "Santiago de C."
+    },
+    {
+      "iata": "SDF",
+      "name": "Louisville Muhammad Ali International Airport",
+      "short": "Louisville"
+    },
+    {
+      "iata": "SDQ",
+      "name": "Las Américas International Airport",
+      "short": "Santo Domingo"
+    },
+    {
+      "iata": "SEA",
+      "name": "Seattle–Tacoma International Airport",
+      "short": "Seattle-Tacoma"
+    },
+    {
+      "iata": "SFO",
+      "name": "San Francisco International Airport",
+      "short": "San Francisco"
+    },
+    {
+      "iata": "SGN",
+      "name": "Tan Son Nhat International Airport",
+      "short": "Ho Chi Minh"
+    },
+    {
+      "iata": "SHA",
+      "name": "Shanghai Hongqiao International Airport",
+      "short": "Shanghai Hongqiao"
+    },
+    {
+      "iata": "SHJ",
+      "name": "Sharjah International Airport",
+      "short": "Sharjah"
+    },
+    {
+      "iata": "SIN",
+      "name": "Singapore Changi Airport",
+      "short": "Singapore"
+    },
+    {
+      "iata": "SJC",
+      "name": "Norman Y. Mineta San José International Airport",
+      "short": "San José CA"
+    },
+    {
+      "iata": "SJO",
+      "name": "Juan Santamaría International Airport",
+      "short": "San José CR"
+    },
+    {
+      "iata": "SJU",
+      "name": "Luis Muñoz Marín International Airport",
+      "short": "San Juan"
+    },
+    {
+      "iata": "SJW",
+      "name": "Shijiazhuang Zhengding International Airport",
+      "short": "Shijiazhuang"
+    },
+    {
+      "iata": "SKG",
+      "name": "Thessaloniki Airport",
+      "short": "Thessaloniki"
+    },
+    {
+      "iata": "SLC",
+      "name": "Salt Lake City International Airport",
+      "short": "Salt Lake City"
+    },
+    {
+      "iata": "SLL",
+      "name": "Salalah International Airport",
+      "short": "Salalah"
+    },
+    {
+      "iata": "SNA",
+      "name": "John Wayne Airport",
+      "short": "Santa Ana"
+    },
+    {
+      "iata": "SNN",
+      "name": "Shannon Airport",
+      "short": "Shannon"
+    },
+    {
+      "iata": "SNU",
+      "name": "Abel Santamaría Airport",
+      "short": "Santa Clara"
+    },
+    {
+      "iata": "SOF",
+      "name": "Sofia Airport",
+      "short": "Sofia"
+    },
+    {
+      "iata": "SPU",
+      "name": "Split Airport",
+      "short": "Split"
+    },
+    {
+      "iata": "SRQ",
+      "name": "Sarasota–Bradenton International Airport",
+      "short": "Sarasota"
+    },
+    {
+      "iata": "SSA",
+      "name": "Deputado Luís Eduardo Magalhães International Airport",
+      "short": "Salvador"
+    },
+    {
+      "iata": "SSH",
+      "name": "Sharm El Sheikh International Airport",
+      "short": "Sharm El Sheikh"
+    },
+    {
+      "iata": "STL",
+      "name": "St. Louis Lambert International Airport",
+      "short": "St. Louis"
+    },
+    {
+      "iata": "STR",
+      "name": "Stuttgart Airport",
+      "short": "Stuttgart"
+    },
+    {
+      "iata": "STT",
+      "name": "Cyril E. King Airport",
+      "short": "St. Thomas"
+    },
+    {
+      "iata": "STX",
+      "name": "Henry E. Rohlsen Airport",
+      "short": "St. Croix"
+    },
+    {
+      "iata": "SUB",
+      "name": "Juanda International Airport",
+      "short": "Surabaya"
+    },
+    {
+      "iata": "SUV",
+      "name": "Nausori International Airport",
+      "short": "Suva"
+    },
+    {
+      "iata": "SVCL",
+      "name": "Simón Bolívar International Airport of Maiquetia",
+      "short": "Caracas"
+    },
+    {
+      "iata": "SVQ",
+      "name": "Seville Airport",
+      "short": "Seville"
+    },
+    {
+      "iata": "SWA",
+      "name": "Jieyang Chaoshan International Airport",
+      "short": "Shantou"
+    },
+    {
+      "iata": "SXF",
+      "name": "Berlin Schönefeld Airport (closed – now part of BER)",
+      "short": "Berlin (old SXF)"
+    },
+    {
+      "iata": "SYD",
+      "name": "Sydney Kingsford Smith Airport",
+      "short": "Sydney"
+    },
+    {
+      "iata": "SYR",
+      "name": "Syracuse Hancock International Airport",
+      "short": "Syracuse"
+    },
+    {
+      "iata": "SZX",
+      "name": "Shenzhen Bao'an International Airport",
+      "short": "Shenzhen"
+    },
+    {
+      "iata": "TAE",
+      "name": "Daegu International Airport",
+      "short": "Daegu"
+    },
+    {
+      "iata": "TAK",
+      "name": "Takamatsu Airport",
+      "short": "Takamatsu"
+    },
+    {
+      "iata": "TAS",
+      "name": "Tashkent International Airport",
+      "short": "Tashkent"
+    },
+    {
+      "iata": "TBS",
+      "name": "Tbilisi International Airport",
+      "short": "Tbilisi"
+    },
+    {
+      "iata": "TGU",
+      "name": "Toncontín International Airport",
+      "short": "Tegucigalpa"
+    },
+    {
+      "iata": "TIA",
+      "name": "Tirana International Airport Nënë Tereza",
+      "short": "Tirana"
+    },
+    {
+      "iata": "TLL",
+      "name": "Tallinn Airport",
+      "short": "Tallinn"
+    },
+    {
+      "iata": "TLS",
+      "name": "Toulouse–Blagnac Airport",
+      "short": "Toulouse"
+    },
+    {
+      "iata": "TNA",
+      "name": "Jinan Yaoqiang International Airport",
+      "short": "Jinan"
+    },
+    {
+      "iata": "TNR",
+      "name": "Ivato International Airport",
+      "short": "Antananarivo"
+    },
+    {
+      "iata": "TOF",
+      "name": "Tomsk Bogashevo Airport",
+      "short": "Tomsk"
+    },
+    {
+      "iata": "TOS",
+      "name": "Tromsø Airport, Langnes",
+      "short": "Tromsø"
+    },
+    {
+      "iata": "TPA",
+      "name": "Tampa International Airport",
+      "short": "Tampa"
+    },
+    {
+      "iata": "TPE",
+      "name": "Taiwan Taoyuan International Airport",
+      "short": "Taipei"
+    },
+    {
+      "iata": "TRC",
+      "name": "Torreón International Airport",
+      "short": "Torreón"
+    },
+    {
+      "iata": "TRN",
+      "name": "Turin Airport",
+      "short": "Turin"
+    },
+    {
+      "iata": "TSN",
+      "name": "Tianjin Binhai International Airport",
+      "short": "Tianjin"
+    },
+    {
+      "iata": "TUL",
+      "name": "Tulsa International Airport",
+      "short": "Tulsa"
+    },
+    {
+      "iata": "TUN",
+      "name": "Tunis–Carthage International Airport",
+      "short": "Tunis"
+    },
+    {
+      "iata": "TXL",
+      "name": "Berlin Tegel Airport (closed)",
+      "short": "Berlin (old TXL)"
+    },
+    {
+      "iata": "TYN",
+      "name": "Taiyuan Wusu International Airport",
+      "short": "Taiyuan"
+    },
+    {
+      "iata": "TZA",
+      "name": "Tonopah Airport",
+      "short": "Tonopah"
+    },
+    {
+      "iata": "UBN",
+      "name": "Ulaanbaatar Chinggis Khaan International Airport",
+      "short": "Ulaanbaatar"
+    },
+    {
+      "iata": "UIO",
+      "name": "Mariscal Sucre International Airport",
+      "short": "Quito"
+    },
+    {
+      "iata": "ULN",
+      "name": "Buyant-Ukhaa International Airport (old – now UBN)",
+      "short": "Ulaanbaatar (old)"
+    },
+    {
+      "iata": "URC",
+      "name": "Ürümqi Diwopu International Airport",
+      "short": "Ürümqi"
+    },
+    {
+      "iata": "USM",
+      "name": "Samui Airport",
+      "short": "Koh Samui"
+    },
+    {
+      "iata": "VCP",
+      "name": "Viracopos International Airport",
+      "short": "Campinas"
+    },
+    {
+      "iata": "VIE",
+      "name": "Vienna International Airport",
+      "short": "Vienna"
+    },
+    {
+      "iata": "VNO",
+      "name": "Vilnius International Airport",
+      "short": "Vilnius"
+    },
+    {
+      "iata": "VTE",
+      "name": "Wattay International Airport",
+      "short": "Vientiane"
+    },
+    {
+      "iata": "VVI",
+      "name": "Viru Viru International Airport",
+      "short": "Santa Cruz"
+    },
+    {
+      "iata": "VVO",
+      "name": "Vladivostok International Airport",
+      "short": "Vladivostok"
+    },
+    {
+      "iata": "WAW",
+      "name": "Warsaw Chopin Airport",
+      "short": "Warsaw"
+    },
+    {
+      "iata": "WDH",
+      "name": "Hosea Kutako International Airport",
+      "short": "Windhoek"
+    },
+    {
+      "iata": "WEH",
+      "name": "Weihai Dashuibo Airport",
+      "short": "Weihai"
+    },
+    {
+      "iata": "WUH",
+      "name": "Wuhan Tianhe International Airport",
+      "short": "Wuhan"
+    },
+    {
+      "iata": "WUX",
+      "name": "Sunan Shuofang International Airport",
+      "short": "Wuxi"
+    },
+    {
+      "iata": "XIY",
+      "name": "Xi'an Xianyang International Airport",
+      "short": "Xi'an"
+    },
+    {
+      "iata": "XMN",
+      "name": "Xiamen Gaoqi International Airport",
+      "short": "Xiamen"
+    },
+    {
+      "iata": "YEG",
+      "name": "Edmonton International Airport",
+      "short": "Edmonton"
+    },
+    {
+      "iata": "YHZ",
+      "name": "Halifax Stanfield International Airport",
+      "short": "Halifax"
+    },
+    {
+      "iata": "YOW",
+      "name": "Ottawa Macdonald–Cartier International Airport",
+      "short": "Ottawa"
+    },
+    {
+      "iata": "YUL",
+      "name": "Montréal–Pierre Elliott Trudeau International Airport",
+      "short": "Montreal"
+    },
+    {
+      "iata": "YVR",
+      "name": "Vancouver International Airport",
+      "short": "Vancouver"
+    },
+    {
+      "iata": "YWG",
+      "name": "Winnipeg James Armstrong Richardson International Airport",
+      "short": "Winnipeg"
+    },
+    {
+      "iata": "YYC",
+      "name": "Calgary International Airport",
+      "short": "Calgary"
+    },
+    {
+      "iata": "YYT",
+      "name": "St. John's International Airport",
+      "short": "St. John's"
+    },
+    {
+      "iata": "YYZ",
+      "name": "Toronto Pearson International Airport",
+      "short": "Toronto"
+    },
+    {
+      "iata": "ZAG",
+      "name": "Zagreb Airport",
+      "short": "Zagreb"
+    },
+    {
+      "iata": "ZGN",
+      "name": "Zhongshan Ferry Port (for Macau/Zhuhai)",
+      "short": "Zhuhai Port"
+    },
+    {
+      "iata": "ZRH",
+      "name": "Zurich Airport",
+      "short": "Zurich"
+    }
+  ]
+}
